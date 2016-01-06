@@ -1,7 +1,6 @@
 #Euler
 
-Repository dedicated to a set of soluations to project euler problems i've 
-solved in a variery of languages
+Repository dedicated to a set of solutions to project euler problems i've solved
 
 ##Languages
 
