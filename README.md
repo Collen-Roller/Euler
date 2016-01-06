@@ -1,6 +1,14 @@
-Euler
-=====
+##Euler
 
-This repository is for various solutions to project euler problems.
-Currently all solved problems are done in C++, however, eventually there will be a mix of
-solutions solved in different languages. 
+Repository dedicated to a set of soluations to project euler problems i've 
+solved in a variery of languages
+
+#Languages
+
+	C++	:	[2,54]
+
+#Creditation
+
+Written by [Collen Roller][1]
+
+[1]: https://github.com/collen-roller
