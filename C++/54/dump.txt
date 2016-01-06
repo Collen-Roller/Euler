@@ -1,0 +1,6378 @@
+ in main! 
+ HELLO WORLD (For Kicks) 
+in constructor 
+in read hands 
+file name is : poker.txt
+number of hands is 1000
+ Player 1 hand : 8C TS KC 9H 4S 
+ Player 2 hand : 7D 2S 5D 3S AC 
+you have the high card KC 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 0
+ Player 1 hand : 5C AD 5D AC 9C 
+ Player 2 hand : 7C 5H 8D TD KS 
+Two Pair
+you have the high card KS 
+player 1 wins
+done processing line 1
+ Player 1 hand : 3H 7H 6S KC JS 
+ Player 2 hand : QH TD JC 2D 8S 
+you have the high card KC 
+you have the high card QH 
+ faceoff returned 1
+player 1 wins
+done processing line 2
+ Player 1 hand : TH 8H 5C QS TC 
+ Player 2 hand : 9H 4D JC KS JS 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 3
+ Player 1 hand : 7C 5H KC QH JD 
+ Player 2 hand : AS KH 4C AD 4S 
+you have the high card KC 
+Two Pair
+player 2 wins
+done processing line 4
+ Player 1 hand : 5H KS 9C 7D 9H 
+ Player 2 hand : 8D 3S 5D 5C AH 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 5
+ Player 1 hand : 6H 4H 5C 3H 2H 
+ Player 2 hand : 3S QH 5S 6S AS 
+Straight
+you have the high card AS 
+player 1 wins
+done processing line 6
+ Player 1 hand : TD 8C 4H 7C TC 
+ Player 2 hand : KC 4C 3H 7S KS 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 7
+ Player 1 hand : 7C 9C 6D KD 3H 
+ Player 2 hand : 4C QS QC AC KH 
+you have the high card KD 
+Pair
+player 2 wins
+done processing line 8
+ Player 1 hand : JC 6S 5H 2H 2D 
+ Player 2 hand : KD 9D 7C AS JS 
+Pair
+you have the high card AS 
+player 1 wins
+done processing line 9
+ Player 1 hand : AD QH TH 9D 8H 
+ Player 2 hand : TS 6D 3S AS AC 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 10
+ Player 1 hand : 2H 4S 5C 5S TC 
+ Player 2 hand : KC JD 6C TS 3C 
+Pair
+you have the high card KC 
+player 1 wins
+done processing line 11
+ Player 1 hand : QD AS 6H JS 2C 
+ Player 2 hand : 3D 9H KC 4H 8S 
+you have the high card AS 
+you have the high card KC 
+ faceoff returned 1
+player 1 wins
+done processing line 12
+ Player 1 hand : KD 8S 9S 7C 2S 
+ Player 2 hand : 3S 6D 6S 4H KC 
+you have the high card KD 
+Pair
+player 2 wins
+done processing line 13
+ Player 1 hand : 3C 8C 2D 7D 4D 
+ Player 2 hand : 9S 4S QH 4H JD 
+you have the high card 8C 
+Pair
+player 2 wins
+done processing line 14
+ Player 1 hand : 8C KC 7S TC 2D 
+ Player 2 hand : TS 8H QD AC 5C 
+you have the high card KC 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 15
+ Player 1 hand : 3D KH QD 6C 6S 
+ Player 2 hand : AD AS 8H 2H QS 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 16
+ Player 1 hand : 6S 8D 4C 8S 6C 
+ Player 2 hand : QH TC 6D 7D 9D 
+Two Pair
+you have the high card QH 
+player 1 wins
+done processing line 17
+ Player 1 hand : 2S 8D 8C 4C TS 
+ Player 2 hand : 9S 9D 9C AC 3D 
+Pair
+Trips
+player 2 wins
+done processing line 18
+ Player 1 hand : 3C QS 2S 4H JH 
+ Player 2 hand : 3D 2D TD 8S 9H 
+you have the high card QS 
+you have the high card TD 
+ faceoff returned 1
+player 1 wins
+done processing line 19
+ Player 1 hand : 5H QS 8S 6D 3C 
+ Player 2 hand : 8C JD AS 7H 7D 
+you have the high card QS 
+Pair
+player 2 wins
+done processing line 20
+ Player 1 hand : 6H TD 9D AS JH 
+ Player 2 hand : 6C QC 9S KD JC 
+you have the high card AS 
+you have the high card KD 
+ faceoff returned 1
+player 1 wins
+done processing line 21
+ Player 1 hand : AH 8S QS 4D TH 
+ Player 2 hand : AC TS 3C 3D 5C 
+you have the high card AH 
+Pair
+player 2 wins
+done processing line 22
+ Player 1 hand : 5S 4D JS 3D 8H 
+ Player 2 hand : 6C TS 3S AD 8C 
+you have the high card JS 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 23
+ Player 1 hand : 6D 7C 5D 5H 3S 
+ Player 2 hand : 5C JC 2H 5S 3D 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 24
+ Player 1 hand : 5H 6H 2S KS 3D 
+ Player 2 hand : 5D JD 7H JS 8H 
+you have the high card KS 
+Pair
+player 2 wins
+done processing line 25
+ Player 1 hand : KH 4H AS JS QS 
+ Player 2 hand : QC TC 6D 7C KS 
+you have the high card AS 
+you have the high card KS 
+ faceoff returned 1
+player 1 wins
+done processing line 26
+ Player 1 hand : 3D QS TS 2H JS 
+ Player 2 hand : 4D AS 9S JC KD 
+you have the high card QS 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 27
+ Player 1 hand : QD 5H 4D 5D KH 
+ Player 2 hand : 7H 3D JS KD 4H 
+Pair
+you have the high card KD 
+player 1 wins
+done processing line 28
+ Player 1 hand : 2C 9H 6H 5C 9D 
+ Player 2 hand : 6C JC 2D TH 9S 
+Pair
+you have the high card JC 
+player 1 wins
+done processing line 29
+ Player 1 hand : 7D 6D AS QD JH 
+ Player 2 hand : 4D JS 7C QS 5C 
+you have the high card AS 
+you have the high card QS 
+ faceoff returned 1
+player 1 wins
+done processing line 30
+ Player 1 hand : 3H KH QD AD 8C 
+ Player 2 hand : 8H 3S TH 9D 5S 
+you have the high card AD 
+you have the high card TH 
+ faceoff returned 1
+player 1 wins
+done processing line 31
+ Player 1 hand : AH 9S 4D 9D 8S 
+ Player 2 hand : 4H JS 3C TC 8D 
+Pair
+you have the high card JS 
+player 1 wins
+done processing line 32
+ Player 1 hand : 2C KS 5H QD 3S 
+ Player 2 hand : TS 9H AH AD 8S 
+you have the high card KS 
+Pair
+player 2 wins
+done processing line 33
+ Player 1 hand : 5C 7H 5D KD 9H 
+ Player 2 hand : 4D 3D 2D KS AD 
+Pair
+you have the high card AD 
+player 1 wins
+done processing line 34
+ Player 1 hand : KS KC 9S 6D 2C 
+ Player 2 hand : QH 9D 9H TS TC 
+Pair
+Two Pair
+player 2 wins
+done processing line 35
+ Player 1 hand : 9C 6H 5D QH 4D 
+ Player 2 hand : AD 6D QC JS KH 
+you have the high card QH 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 36
+ Player 1 hand : 9S 3H 9D JD 5C 
+ Player 2 hand : 4D 9H AS TC QH 
+Pair
+you have the high card AS 
+player 1 wins
+done processing line 37
+ Player 1 hand : 2C 6D JC 9C 3C 
+ Player 2 hand : AD 9S KH 9D 7D 
+you have the high card JC 
+Pair
+player 2 wins
+done processing line 38
+ Player 1 hand : KC 9C 7C JC JS 
+ Player 2 hand : KD 3H AS 3C 7D 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 39
+ Player 1 hand : QD KH QS 2C 3S 
+ Player 2 hand : 8S 8H 9H 9C JC 
+Pair
+Two Pair
+player 2 wins
+done processing line 40
+ Player 1 hand : QH 8D 3C KC 4C 
+ Player 2 hand : 4H 6D AD 9H 9D 
+you have the high card KC 
+Pair
+player 2 wins
+done processing line 41
+ Player 1 hand : 3S KS QS 7H KH 
+ Player 2 hand : 7D 5H 5D JD AD 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 42
+ Player 1 hand : 2H 2C 6H TH TC 
+ Player 2 hand : 7D 8D 4H 8C AS 
+Two Pair
+Pair
+player 1 wins
+done processing line 43
+ Player 1 hand : 4S 2H AC QC 3S 
+ Player 2 hand : 6D TH 4D 4C KH 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 44
+ Player 1 hand : 4D TC KS AS 7C 
+ Player 2 hand : 3C 6D 2D 9H 6C 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 45
+ Player 1 hand : 8C TD 5D QS 2C 
+ Player 2 hand : 7H 4C 9C 3H 9H 
+you have the high card QS 
+Pair
+player 2 wins
+done processing line 46
+ Player 1 hand : 5H JH TS 7S TD 
+ Player 2 hand : 6H AD QD 8H 8S 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 47
+ Player 1 hand : 5S AD 9C 8C 7C 
+ Player 2 hand : 8D 5H 9D 8S 2S 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 48
+ Player 1 hand : 4H KH KS 9S 2S 
+ Player 2 hand : KC 5S AD 4S 7D 
+Pair
+you have the high card AD 
+player 1 wins
+done processing line 49
+ Player 1 hand : QS 9C QD 6H JS 
+ Player 2 hand : 5D AC 8D 2S AS 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 50
+ Player 1 hand : KH AC JC 3S 9D 
+ Player 2 hand : 9S 3C 9C 5S JS 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 51
+ Player 1 hand : AD 3C 3D KS 3S 
+ Player 2 hand : 5C 9C 8C TS 4S 
+Trips
+you have the high card TS 
+player 1 wins
+done processing line 52
+ Player 1 hand : JH 8D 5D 6H KD 
+ Player 2 hand : QS QD 3D 6C KC 
+you have the high card KD 
+Pair
+player 2 wins
+done processing line 53
+ Player 1 hand : 8S JD 6C 3S 8C 
+ Player 2 hand : TC QC 3C QH JS 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 54
+ Player 1 hand : KC JC 8H 2S 9H 
+ Player 2 hand : 9C JH 8S 8C 9S 
+you have the high card KC 
+Two Pair
+player 2 wins
+done processing line 55
+ Player 1 hand : 8S 2H QH 4D QC 
+ Player 2 hand : 9D KC AS TH 3C 
+Pair
+you have the high card AS 
+player 1 wins
+done processing line 56
+ Player 1 hand : 8S 6H TH 7C 2H 
+ Player 2 hand : 6S 3C 3H AS 7S 
+you have the high card TH 
+Pair
+player 2 wins
+done processing line 57
+ Player 1 hand : QH 5S JS 4H 5H 
+ Player 2 hand : TS 8H AH AC JC 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 58
+ Player 1 hand : 9D 8H 2S 4S TC 
+ Player 2 hand : JC 3C 7H 3H 5C 
+you have the high card TC 
+Pair
+player 2 wins
+done processing line 59
+ Player 1 hand : 3D AD 3C 3S 4C 
+ Player 2 hand : QC AS 5D TH 8C 
+Trips
+you have the high card AS 
+player 1 wins
+done processing line 60
+ Player 1 hand : 6S 9D 4C JS KH 
+ Player 2 hand : AH TS JD 8H AD 
+you have the high card KH 
+Pair
+player 2 wins
+done processing line 61
+ Player 1 hand : 4C 6S 9D 7S AC 
+ Player 2 hand : 4D 3D 3S TC JD 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 62
+ Player 1 hand : AD 7H 6H 4H JH 
+ Player 2 hand : KC TD TS 7D 6S 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 63
+ Player 1 hand : 8H JH TC 3S 8D 
+ Player 2 hand : 8C 9S 2C 5C 4D 
+Pair
+you have the high card 9S 
+player 1 wins
+done processing line 64
+ Player 1 hand : 2C 9D KC QH TH 
+ Player 2 hand : QS JC 9C 4H TS 
+you have the high card KC 
+you have the high card QS 
+ faceoff returned 1
+player 1 wins
+done processing line 65
+ Player 1 hand : QS 3C QD 8H KH 
+ Player 2 hand : 4H 8D TD 8S AC 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 66
+ Player 1 hand : 7C 3C TH 5S 8H 
+ Player 2 hand : 8C 9C JD TC KD 
+you have the high card TH 
+you have the high card KD 
+ faceoff returned 2
+player 2 wins
+done processing line 67
+ Player 1 hand : QC TC JD TS 8C 
+ Player 2 hand : 3H 6H KD 7C TD 
+Pair
+you have the high card KD 
+player 1 wins
+done processing line 68
+ Player 1 hand : JH QS KS 9C 6D 
+ Player 2 hand : 6S AS 9H KH 6H 
+you have the high card KS 
+Pair
+player 2 wins
+done processing line 69
+ Player 1 hand : 2H 4D AH 2D JH 
+ Player 2 hand : 6H TD 5D 4H JD 
+Pair
+you have the high card JD 
+player 1 wins
+done processing line 70
+ Player 1 hand : KD 8C 9S JH QD 
+ Player 2 hand : JS 2C QS 5C 7C 
+you have the high card KD 
+you have the high card QS 
+ faceoff returned 1
+player 1 wins
+done processing line 71
+ Player 1 hand : 4S TC 7H 8D 2S 
+ Player 2 hand : 6H 7S 9C 7C KC 
+you have the high card TC 
+Pair
+player 2 wins
+done processing line 72
+ Player 1 hand : 8C 5D 7H 4S TD 
+ Player 2 hand : QC 8S JS 4H KS 
+you have the high card TD 
+you have the high card KS 
+ faceoff returned 2
+player 2 wins
+done processing line 73
+ Player 1 hand : AD 8S JH 6D TD 
+ Player 2 hand : KD 7C 6C 2D 7D 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 74
+ Player 1 hand : JC 6H 6S JS 4H 
+ Player 2 hand : QH 9H AH 4C 3C 
+Two Pair
+you have the high card AH 
+player 1 wins
+done processing line 75
+ Player 1 hand : 6H 5H AS 7C 7S 
+ Player 2 hand : 3D KH KC 5D 5C 
+Pair
+Two Pair
+player 2 wins
+done processing line 76
+ Player 1 hand : JC 3D TD AS 4D 
+ Player 2 hand : 6D 6S QH JD KS 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 77
+ Player 1 hand : 8C 7S 8S QH 2S 
+ Player 2 hand : JD 5C 7H AH QD 
+Pair
+you have the high card AH 
+player 1 wins
+done processing line 78
+ Player 1 hand : 8S 3C 6H 6C 2C 
+ Player 2 hand : 8D TD 7D 4C 4D 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 79
+ Player 1 hand : 5D QH KH 7C 2S 
+ Player 2 hand : 7H JS 6D QC QD 
+you have the high card KH 
+Pair
+player 2 wins
+done processing line 80
+ Player 1 hand : AD 6C 6S 7D TH 
+ Player 2 hand : 6H 2H 8H KH 4H 
+Pair
+Flush
+player 2 wins
+done processing line 81
+ Player 1 hand : KS JS KD 5D 2D 
+ Player 2 hand : KH 7D 9C 8C 3D 
+Pair
+you have the high card KH 
+player 1 wins
+done processing line 82
+ Player 1 hand : 9C 6D QD 3C KS 
+ Player 2 hand : 3S 7S AH JD 2D 
+you have the high card KS 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 83
+ Player 1 hand : AH QH AS JC 8S 
+ Player 2 hand : 8H 4C KC TH 7D 
+Pair
+you have the high card KC 
+player 1 wins
+done processing line 84
+ Player 1 hand : JC 5H TD 7C 5D 
+ Player 2 hand : KD 4C AD 8H JS 
+Pair
+you have the high card AD 
+player 1 wins
+done processing line 85
+ Player 1 hand : KC 2H AC AH 7D 
+ Player 2 hand : JH KH 5D 7S 6D 
+Pair
+you have the high card KH 
+player 1 wins
+done processing line 86
+ Player 1 hand : 9S 5S 9C 6H 8S 
+ Player 2 hand : TD JD 9H 6C AC 
+Pair
+you have the high card AC 
+player 1 wins
+done processing line 87
+ Player 1 hand : 7D 8S 6D TS KD 
+ Player 2 hand : 7H AC 5S 7C 5D 
+you have the high card KD 
+Two Pair
+player 2 wins
+done processing line 88
+ Player 1 hand : AH QC JC 4C TC 
+ Player 2 hand : 8C 2H TS 2C 7D 
+you have the high card AH 
+Pair
+player 2 wins
+done processing line 89
+ Player 1 hand : KD KC 6S 3D 7D 
+ Player 2 hand : 2S 8S 3H 5S 5C 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 90
+ Player 1 hand : 8S 5D 8H 4C 6H 
+ Player 2 hand : KC 3H 7C 5S KD 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 91
+ Player 1 hand : JH 8C 3D 3C 6C 
+ Player 2 hand : KC TD 7H 7C 4C 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 92
+ Player 1 hand : JC KC 6H TS QS 
+ Player 2 hand : TD KS 8H 8C 9S 
+you have the high card KC 
+Pair
+player 2 wins
+done processing line 93
+ Player 1 hand : 6C 5S 9C QH 7D 
+ Player 2 hand : AH KS KC 9S 2C 
+you have the high card QH 
+Pair
+player 2 wins
+done processing line 94
+ Player 1 hand : 4D 4S 8H TD 9C 
+ Player 2 hand : 3S 7D 9D AS TH 
+Pair
+you have the high card AS 
+player 1 wins
+done processing line 95
+ Player 1 hand : 6S 7D 3C 6H 5D 
+ Player 2 hand : KD 2C 5C 9D 9C 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 96
+ Player 1 hand : 2H KC 3D AD 3H 
+ Player 2 hand : QD QS 8D JC 4S 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 97
+ Player 1 hand : 8C 3H 9C 7C AD 
+ Player 2 hand : 5D JC 9D JS AS 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 98
+ Player 1 hand : 5D 9H 5C 7H 6S 
+ Player 2 hand : 6C QC JC QD 9S 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 99
+ Player 1 hand : JC QS JH 2C 6S 
+ Player 2 hand : 9C QC 3D 4S TC 
+Pair
+you have the high card QC 
+player 1 wins
+done processing line 100
+ Player 1 hand : 4H 5S 8D 3D 4D 
+ Player 2 hand : 2S KC 2H JS 2C 
+Pair
+Trips
+player 2 wins
+done processing line 101
+ Player 1 hand : TD 3S TH KD 4D 
+ Player 2 hand : 7H JH JS KS AC 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 102
+ Player 1 hand : 7S 8C 9S 2D 8S 
+ Player 2 hand : 7D 5C AD 9D AS 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 103
+ Player 1 hand : 8C 7H 2S 6C TH 
+ Player 2 hand : 3H 4C 3S 8H AC 
+you have the high card TH 
+Pair
+player 2 wins
+done processing line 104
+ Player 1 hand : KD 5H JC 8H JD 
+ Player 2 hand : 2D 4H TD JH 5C 
+Pair
+you have the high card JH 
+player 1 wins
+done processing line 105
+ Player 1 hand : 3D AS QH KS 7H 
+ Player 2 hand : JD 8S 5S 6D 5H 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 106
+ Player 1 hand : 9S 6S TC QS JC 
+ Player 2 hand : 5C 5D 9C TH 8C 
+you have the high card QS 
+Pair
+player 2 wins
+done processing line 107
+ Player 1 hand : 5H 3S JH 9H 2S 
+ Player 2 hand : 2C 6S 7S AS KS 
+you have the high card JH 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 108
+ Player 1 hand : 8C QD JC QS TC 
+ Player 2 hand : QC 4H AC KH 6C 
+Pair
+you have the high card AC 
+player 1 wins
+done processing line 109
+ Player 1 hand : TC 5H 7D JH 4H 
+ Player 2 hand : 2H 8D JC KS 4D 
+you have the high card JH 
+you have the high card KS 
+ faceoff returned 2
+player 2 wins
+done processing line 110
+ Player 1 hand : 5S 9C KH KD 9H 
+ Player 2 hand : 5C TS 3D 7D 2D 
+Two Pair
+you have the high card TS 
+player 1 wins
+done processing line 111
+ Player 1 hand : 5H AS TC 4D 8C 
+ Player 2 hand : 2C TS 9D 3H 8D 
+you have the high card AS 
+you have the high card TS 
+ faceoff returned 1
+player 1 wins
+done processing line 112
+ Player 1 hand : 6H 8D 2D 9H JD 
+ Player 2 hand : 6C 4S 5H 5S 6D 
+you have the high card JD 
+Two Pair
+player 2 wins
+done processing line 113
+ Player 1 hand : AD 9C JC 7D 6H 
+ Player 2 hand : 9S 6D JS 9H 3C 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 114
+ Player 1 hand : AD JH TC QS 4C 
+ Player 2 hand : 5D 9S 7C 9C AH 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 115
+ Player 1 hand : KD 6H 2H TH 8S 
+ Player 2 hand : QD KS 9D 9H AS 
+you have the high card KD 
+Pair
+player 2 wins
+done processing line 116
+ Player 1 hand : 4H 8H 8D 5H 6C 
+ Player 2 hand : AH 5S AS AD 8S 
+Pair
+Trips
+player 2 wins
+done processing line 117
+ Player 1 hand : QS 5D 4S 2H TD 
+ Player 2 hand : KS 5H AC 3H JC 
+you have the high card QS 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 118
+ Player 1 hand : 9C 7D QD KD AC 
+ Player 2 hand : 6D 5H QH 6H 5S 
+you have the high card AC 
+Two Pair
+player 2 wins
+done processing line 119
+ Player 1 hand : KC AH QH 2H 7D 
+ Player 2 hand : QS 3H KS 7S JD 
+you have the high card AH 
+you have the high card KS 
+ faceoff returned 1
+player 1 wins
+done processing line 120
+ Player 1 hand : 6C 8S 3H 6D KS 
+ Player 2 hand : QD 5D 5C 8H TC 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 121
+ Player 1 hand : 9H 4D 4S 6S 9D 
+ Player 2 hand : KH QC 4H 6C JD 
+Two Pair
+you have the high card KH 
+player 1 wins
+done processing line 122
+ Player 1 hand : TD 2D QH 4S 6H 
+ Player 2 hand : JH KD 3C QD 8C 
+you have the high card QH 
+you have the high card KD 
+ faceoff returned 2
+player 2 wins
+done processing line 123
+ Player 1 hand : 4S 6H 7C QD 9D 
+ Player 2 hand : AS AH 6S AD 3C 
+you have the high card QD 
+Trips
+player 2 wins
+done processing line 124
+ Player 1 hand : 2C KC TH 6H 8D 
+ Player 2 hand : AH 5C 6D 8S 5D 
+you have the high card KC 
+Pair
+player 2 wins
+done processing line 125
+ Player 1 hand : TD TS 7C AD JC 
+ Player 2 hand : QD 9H 3C KC 7H 
+Pair
+you have the high card KC 
+player 1 wins
+done processing line 126
+ Player 1 hand : 5D 4D 5S 8H 4H 
+ Player 2 hand : 7D 3H JD KD 2D 
+Two Pair
+you have the high card KD 
+player 1 wins
+done processing line 127
+ Player 1 hand : JH TD 6H QS 4S 
+ Player 2 hand : KD 5C 8S 7D 8H 
+you have the high card QS 
+Pair
+player 2 wins
+done processing line 128
+ Player 1 hand : AC 3D AS 8C TD 
+ Player 2 hand : 7H KH 5D 6C JD 
+Pair
+you have the high card KH 
+player 1 wins
+done processing line 129
+ Player 1 hand : 9D KS 7C 6D QH 
+ Player 2 hand : TC JD KD AS KC 
+you have the high card KS 
+Pair
+player 2 wins
+done processing line 130
+ Player 1 hand : JH 8S 5S 7S 7D 
+ Player 2 hand : AS 2D 3D AD 2H 
+Pair
+Two Pair
+player 2 wins
+done processing line 131
+ Player 1 hand : 2H 5D AS 3C QD 
+ Player 2 hand : KC 6H 9H 9S 2C 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 132
+ Player 1 hand : 9D 5D TH 4C JH 
+ Player 2 hand : 3H 8D TC 8H 9H 
+you have the high card JH 
+Pair
+player 2 wins
+done processing line 133
+ Player 1 hand : 6H KD 2C TD 2H 
+ Player 2 hand : 6C 9D 2D JS 8C 
+Pair
+you have the high card JS 
+player 1 wins
+done processing line 134
+ Player 1 hand : KD 7S 3C 7C AS 
+ Player 2 hand : QH TS AD 8C 2S 
+Pair
+you have the high card AD 
+player 1 wins
+done processing line 135
+ Player 1 hand : QS 8H 6C JS 4C 
+ Player 2 hand : 9S QC AD TD TS 
+you have the high card QS 
+Pair
+player 2 wins
+done processing line 136
+ Player 1 hand : 2H 7C TS TC 8C 
+ Player 2 hand : 3C 9H 2D 6D JC 
+Pair
+you have the high card JC 
+player 1 wins
+done processing line 137
+ Player 1 hand : TC 2H 8D JH KS 
+ Player 2 hand : 6D 3H TD TH 8H 
+you have the high card KS 
+Pair
+player 2 wins
+done processing line 138
+ Player 1 hand : 9D TD 9H QC 5D 
+ Player 2 hand : 6C 8H 8C KC TS 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 139
+ Player 1 hand : 2H 8C 3D AH 4D 
+ Player 2 hand : TH TC 7D 8H KC 
+you have the high card AH 
+Pair
+player 2 wins
+done processing line 140
+ Player 1 hand : TS 5C 2D 8C 6S 
+ Player 2 hand : KH AH 5H 6H KC 
+you have the high card TS 
+Pair
+player 2 wins
+done processing line 141
+ Player 1 hand : 5S 5D AH TC 4C 
+ Player 2 hand : JD 8D 6H 8C 6C 
+Pair
+Two Pair
+player 2 wins
+done processing line 142
+ Player 1 hand : KC QD 3D 8H 2D 
+ Player 2 hand : JC 9H 4H AD 2S 
+you have the high card KC 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 143
+ Player 1 hand : TD 6S 7D JS KD 
+ Player 2 hand : 4H QS 2S 3S 8C 
+you have the high card KD 
+you have the high card QS 
+ faceoff returned 1
+player 1 wins
+done processing line 144
+ Player 1 hand : 4C 9H JH TS 3S 
+ Player 2 hand : 4H QC 5S 9S 9C 
+you have the high card JH 
+Pair
+player 2 wins
+done processing line 145
+ Player 1 hand : 2C KD 9H JS 9S 
+ Player 2 hand : 3H JC TS 5D AC 
+Pair
+you have the high card AC 
+player 1 wins
+done processing line 146
+ Player 1 hand : AS 2H 5D AD 5H 
+ Player 2 hand : JC 7S TD JS 4C 
+Two Pair
+Pair
+player 1 wins
+done processing line 147
+ Player 1 hand : 2D 4S 8H 3D 7D 
+ Player 2 hand : 2C AD KD 9C TS 
+you have the high card 8H 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 148
+ Player 1 hand : 7H QD JH 5H JS 
+ Player 2 hand : AC 3D TH 4C 8H 
+Pair
+you have the high card AC 
+player 1 wins
+done processing line 149
+ Player 1 hand : 6D KH KC QD 5C 
+ Player 2 hand : AD 7C 2D 4H AC 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 150
+ Player 1 hand : 3D 9D TC 8S QD 
+ Player 2 hand : 2C JC 4H JD AH 
+you have the high card QD 
+Pair
+player 2 wins
+done processing line 151
+ Player 1 hand : 6C TD 5S TC 8S 
+ Player 2 hand : AH 2C 5D AS AC 
+Pair
+Trips
+player 2 wins
+done processing line 152
+ Player 1 hand : TH 7S 3D AS 6C 
+ Player 2 hand : 4C 7H 7D 4H AH 
+you have the high card AS 
+Two Pair
+player 2 wins
+done processing line 153
+ Player 1 hand : 5C 2H KS 6H 7S 
+ Player 2 hand : 4H 5H 3D 3C 7H 
+you have the high card KS 
+Pair
+player 2 wins
+done processing line 154
+ Player 1 hand : 3C 9S AC 7S QH 
+ Player 2 hand : 2H 3D 6S 3S 3H 
+you have the high card AC 
+Trips
+player 2 wins
+done processing line 155
+ Player 1 hand : 2D 3H AS 2C 6H 
+ Player 2 hand : TC JS 6S 9C 6C 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 156
+ Player 1 hand : QH KD QD 6D AC 
+ Player 2 hand : 6H KH 2C TS 8C 
+Pair
+you have the high card KH 
+player 1 wins
+done processing line 157
+ Player 1 hand : 8H 7D 3S 9H 5D 
+ Player 2 hand : 3H 4S QC 9S 5H 
+you have the high card 9H 
+you have the high card QC 
+ faceoff returned 2
+player 2 wins
+done processing line 158
+ Player 1 hand : 2D 9D 7H 6H 3C 
+ Player 2 hand : 8S 5H 4D 3S 4S 
+you have the high card 9D 
+Pair
+player 2 wins
+done processing line 159
+ Player 1 hand : KD 9S 4S TC 7S 
+ Player 2 hand : QC 3S 8S 2H 7H 
+you have the high card KD 
+you have the high card QC 
+ faceoff returned 1
+player 1 wins
+done processing line 160
+ Player 1 hand : TC 3D 8C 3H 6C 
+ Player 2 hand : 2H 6H KS KD 4D 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 161
+ Player 1 hand : KC 3D 9S 3H JS 
+ Player 2 hand : 4S 8H 2D 6C 8S 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 162
+ Player 1 hand : 6H QS 6C TC QD 
+ Player 2 hand : 9H 7D 7C 5H 4D 
+Two Pair
+Pair
+player 1 wins
+done processing line 163
+ Player 1 hand : TD 9D 8D 6S 6C 
+ Player 2 hand : TC 5D TS JS 8H 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 164
+ Player 1 hand : 4H KC JD 9H TC 
+ Player 2 hand : 2C 6S 5H 8H AS 
+you have the high card KC 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 165
+ Player 1 hand : JS 9C 5C 6S 9D 
+ Player 2 hand : JD 8H KC 4C 6D 
+Pair
+you have the high card KC 
+player 1 wins
+done processing line 166
+ Player 1 hand : 4D 8D 8S 6C 7C 
+ Player 2 hand : 6H 7H 8H 5C KC 
+Pair
+you have the high card KC 
+player 1 wins
+done processing line 167
+ Player 1 hand : TC 3D JC 6D KS 
+ Player 2 hand : 9S 6H 7S 9C 2C 
+you have the high card KS 
+Pair
+player 2 wins
+done processing line 168
+ Player 1 hand : 6C 3S KD 5H TS 
+ Player 2 hand : 7D 9H 9S 6H KH 
+you have the high card KD 
+Pair
+player 2 wins
+done processing line 169
+ Player 1 hand : 3D QD 4C 6H TS 
+ Player 2 hand : AC 3S 5C 2H KD 
+you have the high card QD 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 170
+ Player 1 hand : 4C AS JS 9S 7C 
+ Player 2 hand : TS 7H 9H JC KS 
+you have the high card AS 
+you have the high card KS 
+ faceoff returned 1
+player 1 wins
+done processing line 171
+ Player 1 hand : 4H 8C JD 3H 6H 
+ Player 2 hand : AD 9S 4S 5S KS 
+you have the high card JD 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 172
+ Player 1 hand : 4C 2C 7D 3D AS 
+ Player 2 hand : 9C 2S QS KC 6C 
+you have the high card AS 
+you have the high card KC 
+ faceoff returned 1
+player 1 wins
+done processing line 173
+ Player 1 hand : 8S 5H 3D 2S AC 
+ Player 2 hand : 9D 6S 3S 4D TD 
+you have the high card AC 
+you have the high card TD 
+ faceoff returned 1
+player 1 wins
+done processing line 174
+ Player 1 hand : QD TH 7S TS 3D 
+ Player 2 hand : AC 7H 6C 5D QC 
+Pair
+you have the high card AC 
+player 1 wins
+done processing line 175
+ Player 1 hand : TC QD AD 9C QS 
+ Player 2 hand : 5C 8D KD 3D 3C 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 176
+ Player 1 hand : 9D 8H AS 3S 7C 
+ Player 2 hand : 8S JD 2D 8D KC 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 177
+ Player 1 hand : 4C TH AC QH JS 
+ Player 2 hand : 8D 7D 7S 9C KH 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 178
+ Player 1 hand : 9D 8D 4C JH 2C 
+ Player 2 hand : 2S QD KD TS 4H 
+you have the high card JH 
+you have the high card KD 
+ faceoff returned 2
+player 2 wins
+done processing line 179
+ Player 1 hand : 4D 6D 5D 2D JH 
+ Player 2 hand : 3S 8S 3H TC KH 
+you have the high card JH 
+Pair
+player 2 wins
+done processing line 180
+ Player 1 hand : AD 4D 2C QS 8C 
+ Player 2 hand : KD JH JD AH 5C 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 181
+ Player 1 hand : 5C 6C 5H 2H JH 
+ Player 2 hand : 4H KS 7C TC 3H 
+Pair
+you have the high card KS 
+player 1 wins
+done processing line 182
+ Player 1 hand : 3C 4C QC 5D JH 
+ Player 2 hand : 9C QD KH 8D TC 
+you have the high card QC 
+you have the high card KH 
+ faceoff returned 2
+player 2 wins
+done processing line 183
+ Player 1 hand : 3H 9C JS 7H QH 
+ Player 2 hand : AS 7C 9H 5H JC 
+you have the high card QH 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 184
+ Player 1 hand : 2D 5S QD 4S 3C 
+ Player 2 hand : KC 6S 6C 5C 4C 
+you have the high card QD 
+Pair
+player 2 wins
+done processing line 185
+ Player 1 hand : 5D KH 2D TS 8S 
+ Player 2 hand : 9C AS 9S 7C 4C 
+you have the high card KH 
+Pair
+player 2 wins
+done processing line 186
+ Player 1 hand : 7C AH 8C 8D 5S 
+ Player 2 hand : KD QH QS JH 2C 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 187
+ Player 1 hand : 8C 9D AH 2H AC 
+ Player 2 hand : QC 5S 8H 7H 2C 
+Pair
+you have the high card QC 
+player 1 wins
+done processing line 188
+ Player 1 hand : QD 9H 5S QS QC 
+ Player 2 hand : 9C 5H JC TH 4H 
+Trips
+you have the high card JC 
+player 1 wins
+done processing line 189
+ Player 1 hand : 6C 6S 3H 5H 3S 
+ Player 2 hand : 6H KS 8D AC 7S 
+Two Pair
+you have the high card AC 
+player 1 wins
+done processing line 190
+ Player 1 hand : AC QH 7H 8C 4S 
+ Player 2 hand : KC 6C 3D 3S TC 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 191
+ Player 1 hand : 9D 3D JS TH AC 
+ Player 2 hand : 5H 3H 8S 3S TC 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 192
+ Player 1 hand : QD KH JS KS 9S 
+ Player 2 hand : QC 8D AH 3C AC 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 193
+ Player 1 hand : 5H 6C KH 3S 9S 
+ Player 2 hand : JH 2D QD AS 8C 
+you have the high card KH 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 194
+ Player 1 hand : 6C 4D 7S 7H 5S 
+ Player 2 hand : JC 6S 9H 4H JH 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 195
+ Player 1 hand : AH 5S 6H 9S AD 
+ Player 2 hand : 3S TH 2H 9D 8C 
+Pair
+you have the high card TH 
+player 1 wins
+done processing line 196
+ Player 1 hand : 4C 8D 9H 7C QC 
+ Player 2 hand : AD 4S 9C KC 5S 
+you have the high card QC 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 197
+ Player 1 hand : 9D 6H 4D TC 4C 
+ Player 2 hand : JH 2S 5D 3S AS 
+Pair
+you have the high card AS 
+player 1 wins
+done processing line 198
+ Player 1 hand : 2H 6C 7C KH 5C 
+ Player 2 hand : AD QS TH JD 8S 
+you have the high card KH 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 199
+ Player 1 hand : 3S 4S 7S AH AS 
+ Player 2 hand : KC JS 2S AD TH 
+Pair
+you have the high card AD 
+player 1 wins
+done processing line 200
+ Player 1 hand : JS KC 2S 7D 8C 
+ Player 2 hand : 5C 9C TS 5H 9D 
+you have the high card KC 
+Two Pair
+player 2 wins
+done processing line 201
+ Player 1 hand : 7S 9S 4D TD JH 
+ Player 2 hand : JS KH 6H 5D 2C 
+you have the high card JH 
+you have the high card KH 
+ faceoff returned 2
+player 2 wins
+done processing line 202
+ Player 1 hand : JD JS JC TH 2D 
+ Player 2 hand : 3D QD 8C AC 5H 
+Trips
+you have the high card AC 
+player 1 wins
+done processing line 203
+ Player 1 hand : 7S KH 5S 9D 5D 
+ Player 2 hand : TD 4S 6H 3C 2D 
+Pair
+you have the high card TD 
+player 1 wins
+done processing line 204
+ Player 1 hand : 4S 5D AC 8D 4D 
+ Player 2 hand : 7C AD AS AH 9C 
+Pair
+Trips
+player 2 wins
+done processing line 205
+ Player 1 hand : 6S TH TS KS 2C 
+ Player 2 hand : QC AH AS 3C 4S 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 206
+ Player 1 hand : 2H 8C 3S JC 5C 
+ Player 2 hand : 7C 3H 3C KH JH 
+you have the high card JC 
+Pair
+player 2 wins
+done processing line 207
+ Player 1 hand : 7S 3H JC 5S 6H 
+ Player 2 hand : 4C 2S 4D KC 7H 
+you have the high card JC 
+Pair
+player 2 wins
+done processing line 208
+ Player 1 hand : 4D 7C 4H 9S 8S 
+ Player 2 hand : 6S AD TC 6C JC 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 209
+ Player 1 hand : KH QS 3S TC 4C 
+ Player 2 hand : 8H 8S AC 3C TS 
+you have the high card KH 
+Pair
+player 2 wins
+done processing line 210
+ Player 1 hand : QD QS TH 3C TS 
+ Player 2 hand : 7H 7D AH TD JC 
+Two Pair
+Pair
+player 1 wins
+done processing line 211
+ Player 1 hand : TD JD QC 4D 9S 
+ Player 2 hand : 7S TS AD 7D AC 
+you have the high card QC 
+Two Pair
+player 2 wins
+done processing line 212
+ Player 1 hand : AH 7H 4S 6D 7C 
+ Player 2 hand : 2H 9D KS JC TD 
+Pair
+you have the high card KS 
+player 1 wins
+done processing line 213
+ Player 1 hand : 7C AH JD 4H 6D 
+ Player 2 hand : QS TS 2H 2C 5C 
+you have the high card AH 
+Pair
+player 2 wins
+done processing line 214
+ Player 1 hand : TC KC 8C 9S 4C 
+ Player 2 hand : JS 3C JC 6S AH 
+you have the high card KC 
+Pair
+player 2 wins
+done processing line 215
+ Player 1 hand : AS 7D QC 3D 5S 
+ Player 2 hand : JC JD 9D TD KH 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 216
+ Player 1 hand : TH 3C 2S 6H AH 
+ Player 2 hand : AC 5H 5C 7S 8H 
+you have the high card AH 
+Pair
+player 2 wins
+done processing line 217
+ Player 1 hand : QC 2D AC QD 2S 
+ Player 2 hand : 3S JD QS 6S 8H 
+Two Pair
+you have the high card QS 
+player 1 wins
+done processing line 218
+ Player 1 hand : KC 4H 3C 9D JS 
+ Player 2 hand : 6H 3S 8S AS 8C 
+you have the high card KC 
+Pair
+player 2 wins
+done processing line 219
+ Player 1 hand : 7H KC 7D JD 2H 
+ Player 2 hand : JC QH 5S 3H QS 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 220
+ Player 1 hand : 9H TD 3S 8H 7S 
+ Player 2 hand : AC 5C 6C AH 7C 
+you have the high card TD 
+Pair
+player 2 wins
+done processing line 221
+ Player 1 hand : 8D 9H AH JD TD 
+ Player 2 hand : QS 7D 3S 9C 8S 
+you have the high card AH 
+you have the high card QS 
+ faceoff returned 1
+player 1 wins
+done processing line 222
+ Player 1 hand : AH QH 3C JD KC 
+ Player 2 hand : 4S 5S 5D TD KS 
+you have the high card AH 
+Pair
+player 2 wins
+done processing line 223
+ Player 1 hand : 9H 7H 6S JH TH 
+ Player 2 hand : 4C 7C AD 5C 2D 
+you have the high card JH 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 224
+ Player 1 hand : 7C KD 5S TC 9D 
+ Player 2 hand : 6S 6C 5D 2S TH 
+you have the high card KD 
+Pair
+player 2 wins
+done processing line 225
+ Player 1 hand : KC 9H 8D 5H 7H 
+ Player 2 hand : 4H QC 3D 7C AS 
+you have the high card KC 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 226
+ Player 1 hand : 6S 8S QC TD 4S 
+ Player 2 hand : 5C TH QS QD 2S 
+you have the high card QC 
+Pair
+player 2 wins
+done processing line 227
+ Player 1 hand : 8S 5H TH QC 9H 
+ Player 2 hand : 6S KC 7D 7C 5C 
+you have the high card QC 
+Pair
+player 2 wins
+done processing line 228
+ Player 1 hand : 7H KD AH 4D KH 
+ Player 2 hand : 5C 4S 2D KC QH 
+Pair
+you have the high card KC 
+player 1 wins
+done processing line 229
+ Player 1 hand : 6S 2C TD JC AS 
+ Player 2 hand : 4D 6C 8C 4H 5S 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 230
+ Player 1 hand : JC TC JD 5S 6S 
+ Player 2 hand : 8D AS 9D AD 3S 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 231
+ Player 1 hand : 6D 6H 5D 5S TC 
+ Player 2 hand : 3D 7D QS 9D QD 
+Two Pair
+Pair
+player 1 wins
+done processing line 232
+ Player 1 hand : 4S 6C 8S 3S 7S 
+ Player 2 hand : AD KS 2D 7D 7C 
+you have the high card 8S 
+Pair
+player 2 wins
+done processing line 233
+ Player 1 hand : KC QH JC AC QD 
+ Player 2 hand : 5D 8D QS 7H 7D 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 234
+ Player 1 hand : JS AH 8S 5H 3D 
+ Player 2 hand : TD 3H 4S 6C JH 
+you have the high card AH 
+you have the high card JH 
+ faceoff returned 1
+player 1 wins
+done processing line 235
+ Player 1 hand : 4S QS 7D AS 9H 
+ Player 2 hand : JS KS 6D TC 5C 
+you have the high card AS 
+you have the high card KS 
+ faceoff returned 1
+player 1 wins
+done processing line 236
+ Player 1 hand : 2D 5C 6H TC 4D 
+ Player 2 hand : QH 3D 9H 8S 6C 
+you have the high card TC 
+you have the high card QH 
+ faceoff returned 2
+player 2 wins
+done processing line 237
+ Player 1 hand : 6D 7H TC TH 5S 
+ Player 2 hand : JD 5C 9C KS KD 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 238
+ Player 1 hand : 8D TD QH 6S 4S 
+ Player 2 hand : 6C 8S KC 5C TC 
+you have the high card QH 
+you have the high card KC 
+ faceoff returned 2
+player 2 wins
+done processing line 239
+ Player 1 hand : 5S 3D KS AC 4S 
+ Player 2 hand : 7D QD 4C TH 2S 
+you have the high card AC 
+you have the high card QD 
+ faceoff returned 1
+player 1 wins
+done processing line 240
+ Player 1 hand : TS 8H 9S 6S 7S 
+ Player 2 hand : QH 3C AH 7H 8C 
+Straight
+you have the high card AH 
+player 1 wins
+done processing line 241
+ Player 1 hand : 4C 8C TS JS QC 
+ Player 2 hand : 3D 7D 5D 7S JH 
+you have the high card QC 
+Pair
+player 2 wins
+done processing line 242
+ Player 1 hand : 8S 7S 9D QC AC 
+ Player 2 hand : 7C 6D 2H JH KC 
+you have the high card AC 
+you have the high card KC 
+ faceoff returned 1
+player 1 wins
+done processing line 243
+ Player 1 hand : JS KD 3C 6S 4S 
+ Player 2 hand : 7C AH QC KS 5H 
+you have the high card KD 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 244
+ Player 1 hand : KS 6S 4H JD QS 
+ Player 2 hand : TC 8H KC 6H AS 
+you have the high card KS 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 245
+ Player 1 hand : KH 7C TC 6S TD 
+ Player 2 hand : JC 5C 7D AH 3S 
+Pair
+you have the high card AH 
+player 1 wins
+done processing line 246
+ Player 1 hand : 3H 4C 4H TC TH 
+ Player 2 hand : 6S 7H 6D 9C QH 
+Two Pair
+Pair
+player 1 wins
+done processing line 247
+ Player 1 hand : 7D 5H 4S 8C JS 
+ Player 2 hand : 4D 3D 8S QH KC 
+you have the high card JS 
+you have the high card KC 
+ faceoff returned 2
+player 2 wins
+done processing line 248
+ Player 1 hand : 3H 6S AD 7H 3S 
+ Player 2 hand : QC 8S 4S 7S JS 
+Pair
+you have the high card QC 
+player 1 wins
+done processing line 249
+ Player 1 hand : 3S JD KH TH 6H 
+ Player 2 hand : QS 9C 6C 2D QD 
+you have the high card KH 
+Pair
+player 2 wins
+done processing line 250
+ Player 1 hand : 4S QH 4D 5H KC 
+ Player 2 hand : 7D 6D 8D TH 5S 
+Pair
+you have the high card TH 
+player 1 wins
+done processing line 251
+ Player 1 hand : TD AD 6S 7H KD 
+ Player 2 hand : KH 9H 5S KC JC 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 252
+ Player 1 hand : 3H QC AS TS 4S 
+ Player 2 hand : QD KS 9C 7S KC 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 253
+ Player 1 hand : TS 6S QC 6C TH 
+ Player 2 hand : TC 9D 5C 5D KD 
+Two Pair
+Pair
+player 1 wins
+done processing line 254
+ Player 1 hand : JS 3S 4H KD 4C 
+ Player 2 hand : QD 6D 9S JC 9D 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 255
+ Player 1 hand : 8S JS 6D 4H JH 
+ Player 2 hand : 6H 6S 6C KS KH 
+Pair
+Full House
+player 2 wins
+done processing line 256
+ Player 1 hand : AC 7D 5D TC 9S 
+ Player 2 hand : KH 6S QD 6H AS 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 257
+ Player 1 hand : AS 7H 6D QH 8D 
+ Player 2 hand : TH 2S KH 5C 5H 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 258
+ Player 1 hand : 4C 7C 3D QC TC 
+ Player 2 hand : 4S KH 8C 2D JS 
+you have the high card QC 
+you have the high card KH 
+ faceoff returned 2
+player 2 wins
+done processing line 259
+ Player 1 hand : 6H 5D 7S 5H 9C 
+ Player 2 hand : 9H JH 8S TH 7H 
+Pair
+Straight
+player 2 wins
+done processing line 260
+ Player 1 hand : AS JS 2S QD KH 
+ Player 2 hand : 8H 4S AC 8D 8S 
+you have the high card AS 
+Trips
+player 2 wins
+done processing line 261
+ Player 1 hand : 3H 4C TD KD 8C 
+ Player 2 hand : JC 5C QS 2D JD 
+you have the high card KD 
+Pair
+player 2 wins
+done processing line 262
+ Player 1 hand : TS 7D 5D 6C 2C 
+ Player 2 hand : QS 2H 3C AH KS 
+you have the high card TS 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 263
+ Player 1 hand : 4S 7C 9C 7D JH 
+ Player 2 hand : 6C 5C 8H 9D QD 
+Pair
+you have the high card QD 
+player 1 wins
+done processing line 264
+ Player 1 hand : 2S TD 7S 6D 9C 
+ Player 2 hand : 9S QS KH QH 5C 
+you have the high card TD 
+Pair
+player 2 wins
+done processing line 265
+ Player 1 hand : JC 6S 9C QH JH 
+ Player 2 hand : 8D 7S JS KH 2H 
+Pair
+you have the high card KH 
+player 1 wins
+done processing line 266
+ Player 1 hand : 8D 5H TH KC 4D 
+ Player 2 hand : 4S 3S 6S 3D QS 
+you have the high card KC 
+Pair
+player 2 wins
+done processing line 267
+ Player 1 hand : 2D JD 4C TD 7C 
+ Player 2 hand : 6D TH 7S JC AH 
+you have the high card JD 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 268
+ Player 1 hand : QS 7S 4C TH 9D 
+ Player 2 hand : TS AD 4D 3H 6H 
+you have the high card QS 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 269
+ Player 1 hand : 2D 3H 7D JD 3D 
+ Player 2 hand : AS 2S 9C QC 8S 
+Pair
+you have the high card AS 
+player 1 wins
+done processing line 270
+ Player 1 hand : 4H 9H 9C 2C 7S 
+ Player 2 hand : JH KD 5C 5D 6H 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 271
+ Player 1 hand : TC 9H 8H JC 3C 
+ Player 2 hand : 9S 8D KS AD KC 
+you have the high card JC 
+Pair
+player 2 wins
+done processing line 272
+ Player 1 hand : TS 5H JD QS QH 
+ Player 2 hand : QC 8D 5D KH AH 
+Pair
+you have the high card AH 
+player 1 wins
+done processing line 273
+ Player 1 hand : 5D AS 8S 6S 4C 
+ Player 2 hand : AH QC QD TH 7H 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 274
+ Player 1 hand : 3H 4H 7D 6S 4S 
+ Player 2 hand : 9H AS 8H JS 9D 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 275
+ Player 1 hand : JD 8C 2C 9D 7D 
+ Player 2 hand : 5H 5S 9S JC KD 
+you have the high card JD 
+Pair
+player 2 wins
+done processing line 276
+ Player 1 hand : KD 9C 4S QD AH 
+ Player 2 hand : 7C AD 9D AC TD 
+you have the high card AH 
+Pair
+player 2 wins
+done processing line 277
+ Player 1 hand : 6S 4H 4S 9C 8D 
+ Player 2 hand : KS TC 9D JH 7C 
+Pair
+you have the high card KS 
+player 1 wins
+done processing line 278
+ Player 1 hand : 5S JC 5H 4S QH 
+ Player 2 hand : AC 2C JS 2S 9S 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 279
+ Player 1 hand : 8C 5H AS QD AD 
+ Player 2 hand : 5C 7D 8S QC TD 
+Pair
+you have the high card QC 
+player 1 wins
+done processing line 280
+ Player 1 hand : JC 4C 8D 5C KH 
+ Player 2 hand : QS 4D 6H 2H 2C 
+you have the high card KH 
+Pair
+player 2 wins
+done processing line 281
+ Player 1 hand : TH 4S 2D KC 3H 
+ Player 2 hand : QD AC 7H AD 9D 
+you have the high card KC 
+Pair
+player 2 wins
+done processing line 282
+ Player 1 hand : KH QD AS 8H TH 
+ Player 2 hand : KC 8D 7S QH 8C 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 283
+ Player 1 hand : JC 6C 7D 8C KH 
+ Player 2 hand : AD QS 2H 6S 2D 
+you have the high card KH 
+Pair
+player 2 wins
+done processing line 284
+ Player 1 hand : JC KH 2D 7D JS 
+ Player 2 hand : QC 5H 4C 5D AD 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 285
+ Player 1 hand : TS 3S AD 4S TD 
+ Player 2 hand : 2D TH 6S 9H JH 
+Pair
+you have the high card JH 
+player 1 wins
+done processing line 286
+ Player 1 hand : 9H 2D QS 2C 4S 
+ Player 2 hand : 3D KH AS AC 9D 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 287
+ Player 1 hand : KH 6S 8H 4S KD 
+ Player 2 hand : 7D 9D TS QD QC 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 288
+ Player 1 hand : JH 5H AH KS AS 
+ Player 2 hand : AD JC QC 5S KH 
+Pair
+you have the high card AD 
+player 1 wins
+done processing line 289
+ Player 1 hand : 5D 7D 6D KS KD 
+ Player 2 hand : 3D 7C 4D JD 3S 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 290
+ Player 1 hand : AC JS 8D 5H 9C 
+ Player 2 hand : 3H 4H 4D TS 2C 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 291
+ Player 1 hand : 6H KS KH 9D 7C 
+ Player 2 hand : 2S 6S 8S 2H 3D 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 292
+ Player 1 hand : 6H AC JS 7S 3S 
+ Player 2 hand : TD 8H 3H 4H TH 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 293
+ Player 1 hand : 9H TC QC KC 5C 
+ Player 2 hand : KS 6H 4H AC 8S 
+you have the high card KC 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 294
+ Player 1 hand : TC 7D QH 4S JC 
+ Player 2 hand : TS 6D 6C AC KH 
+you have the high card QH 
+Pair
+player 2 wins
+done processing line 295
+ Player 1 hand : QH 7D 7C JH QS 
+ Player 2 hand : QD TH 3H 5D KS 
+Two Pair
+you have the high card KS 
+player 1 wins
+done processing line 296
+ Player 1 hand : 3D 5S 8D JS 4C 
+ Player 2 hand : 2C KS 7H 9C 4H 
+you have the high card JS 
+you have the high card KS 
+ faceoff returned 2
+player 2 wins
+done processing line 297
+ Player 1 hand : 5H 8S 4H TD 2C 
+ Player 2 hand : 3S QD QC 3H KC 
+you have the high card TD 
+Two Pair
+player 2 wins
+done processing line 298
+ Player 1 hand : QC JS KD 9C AD 
+ Player 2 hand : 5S 9D 7D 7H TS 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 299
+ Player 1 hand : 8C JC KH 7C 7S 
+ Player 2 hand : 6C TS 2C QD TH 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 300
+ Player 1 hand : 5S 9D TH 3C 7S 
+ Player 2 hand : QH 8S 9C 2H 5H 
+you have the high card TH 
+you have the high card QH 
+ faceoff returned 2
+player 2 wins
+done processing line 301
+ Player 1 hand : 5D 9H 6H 2S JS 
+ Player 2 hand : KH 3H 7C 2H 5S 
+you have the high card JS 
+you have the high card KH 
+ faceoff returned 2
+player 2 wins
+done processing line 302
+ Player 1 hand : JD 5D 5S 2C TC 
+ Player 2 hand : 2S 6S 6C 3C 8S 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 303
+ Player 1 hand : 4D KH 8H 4H 2D 
+ Player 2 hand : KS 3H 5C 2S 9H 
+Pair
+you have the high card KS 
+player 1 wins
+done processing line 304
+ Player 1 hand : 3S 2D TD 7H 8S 
+ Player 2 hand : 6H JD KC 9C 8D 
+you have the high card TD 
+you have the high card KC 
+ faceoff returned 2
+player 2 wins
+done processing line 305
+ Player 1 hand : 6S QD JH 7C 9H 
+ Player 2 hand : 5H 8S 8H TH TD 
+you have the high card QD 
+Two Pair
+player 2 wins
+done processing line 306
+ Player 1 hand : QS 7S TD 7D TS 
+ Player 2 hand : JC KD 7C 3C 2C 
+Two Pair
+you have the high card KD 
+player 1 wins
+done processing line 307
+ Player 1 hand : 3C JD 8S 4H 2D 
+ Player 2 hand : 2S TD AS 4D AC 
+you have the high card JD 
+Pair
+player 2 wins
+done processing line 308
+ Player 1 hand : AH KS 6C 4C 4S 
+ Player 2 hand : 7D 8C 9H 6H AS 
+Pair
+you have the high card AS 
+player 1 wins
+done processing line 309
+ Player 1 hand : 5S 3C 9S 2C QS 
+ Player 2 hand : KD 4D 4S AC 5D 
+you have the high card QS 
+Pair
+player 2 wins
+done processing line 310
+ Player 1 hand : 2D TS 2C JS KH 
+ Player 2 hand : QH 5D 8C AS KC 
+Pair
+you have the high card AS 
+player 1 wins
+done processing line 311
+ Player 1 hand : KD 3H 6C TH 8S 
+ Player 2 hand : 7S KH 6H 9S AC 
+you have the high card KD 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 312
+ Player 1 hand : 6H 7S 6C QS AH 
+ Player 2 hand : 2S 2H 4H 5D 5H 
+Pair
+Two Pair
+player 2 wins
+done processing line 313
+ Player 1 hand : 5H JC QD 2C 2S 
+ Player 2 hand : JD AS QC 6S 7D 
+Pair
+you have the high card AS 
+player 1 wins
+done processing line 314
+ Player 1 hand : 6C TC AS KD 8H 
+ Player 2 hand : 9D 2C 7D JH 9S 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 315
+ Player 1 hand : 2H 4C 6C AH 8S 
+ Player 2 hand : TD 3H TH 7C TS 
+you have the high card AH 
+Trips
+player 2 wins
+done processing line 316
+ Player 1 hand : KD 4S TS 6C QH 
+ Player 2 hand : 8D 9D 9C AH 7D 
+you have the high card KD 
+Pair
+player 2 wins
+done processing line 317
+ Player 1 hand : 6D JS 5C QD QC 
+ Player 2 hand : 9C 5D 8C 2H KD 
+Pair
+you have the high card KD 
+player 1 wins
+done processing line 318
+ Player 1 hand : 3C QH JH AD 6S 
+ Player 2 hand : AH KC 8S 6D 6H 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 319
+ Player 1 hand : 3D 7C 4C 7S 5S 
+ Player 2 hand : 3S 6S 5H JC 3C 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 320
+ Player 1 hand : QH 7C 5H 3C 3S 
+ Player 2 hand : 8C TS 4C KD 9C 
+Pair
+you have the high card KD 
+player 1 wins
+done processing line 321
+ Player 1 hand : QD 3S 7S 5H 7H 
+ Player 2 hand : QH JC 7C 8C KD 
+Pair
+you have the high card KD 
+player 1 wins
+done processing line 322
+ Player 1 hand : 3C KD KH 2S 4C 
+ Player 2 hand : TS AC 6S 2C 7C 
+Pair
+you have the high card AC 
+player 1 wins
+done processing line 323
+ Player 1 hand : 2C KH 3C 4C 6H 
+ Player 2 hand : 4D 5H 5S 7S QD 
+you have the high card KH 
+Pair
+player 2 wins
+done processing line 324
+ Player 1 hand : 4D 7C 8S QD TS 
+ Player 2 hand : 9D KS 6H KD 3C 
+you have the high card QD 
+Pair
+player 2 wins
+done processing line 325
+ Player 1 hand : QS 4D TS 7S 4C 
+ Player 2 hand : 3H QD 8D 9S TC 
+Pair
+you have the high card QD 
+player 1 wins
+done processing line 326
+ Player 1 hand : TS QH AC 6S 3C 
+ Player 2 hand : 9H 9D QS 8S 6H 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 327
+ Player 1 hand : 3S 7S 5D 4S JS 
+ Player 2 hand : 2D 6C QH 6S TH 
+you have the high card JS 
+Pair
+player 2 wins
+done processing line 328
+ Player 1 hand : 4C 4H AS JS 5D 
+ Player 2 hand : 3D TS 9C AC 8S 
+Pair
+you have the high card AC 
+player 1 wins
+done processing line 329
+ Player 1 hand : 6S 9C 7C 3S 5C 
+ Player 2 hand : QS AD AS 6H 3C 
+you have the high card 9C 
+Pair
+player 2 wins
+done processing line 330
+ Player 1 hand : 9S 8C 7H 3H 6S 
+ Player 2 hand : 7C AS 9H JD KH 
+you have the high card 9S 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 331
+ Player 1 hand : 3D 3H 7S 4D 6C 
+ Player 2 hand : 7C AC 2H 9C TH 
+Pair
+you have the high card AC 
+player 1 wins
+done processing line 332
+ Player 1 hand : 4H 5S 3H AC TC 
+ Player 2 hand : TH 9C 9H 9S 8D 
+you have the high card AC 
+Trips
+player 2 wins
+done processing line 333
+ Player 1 hand : 8D 9H 5H 4D 6C 
+ Player 2 hand : 2H QD 6S 5D 3S 
+you have the high card 9H 
+you have the high card QD 
+ faceoff returned 2
+player 2 wins
+done processing line 334
+ Player 1 hand : 4C 5C JD QS 4D 
+ Player 2 hand : 3H TH AC QH 8C 
+Pair
+you have the high card AC 
+player 1 wins
+done processing line 335
+ Player 1 hand : QC 5S 3C 7H AD 
+ Player 2 hand : 4C KS 4H JD 6D 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 336
+ Player 1 hand : QS AH 3H KS 9H 
+ Player 2 hand : 2S JS JH 5H 2H 
+you have the high card AH 
+Two Pair
+player 2 wins
+done processing line 337
+ Player 1 hand : 2H 5S TH 6S TS 
+ Player 2 hand : 3S KS 3C 5H JS 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 338
+ Player 1 hand : 2D 9S 7H 3D KC 
+ Player 2 hand : JH 6D 7D JS TD 
+you have the high card KC 
+Pair
+player 2 wins
+done processing line 339
+ Player 1 hand : AC JS 8H 2C 8C 
+ Player 2 hand : JH JC 2D TH 7S 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 340
+ Player 1 hand : 5D 9S 8H 2H 3D 
+ Player 2 hand : TC AH JC KD 9C 
+you have the high card 9S 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 341
+ Player 1 hand : 9D QD JC 2H 6D 
+ Player 2 hand : KH TS 9S QH TH 
+you have the high card QD 
+Pair
+player 2 wins
+done processing line 342
+ Player 1 hand : 2C 8D 4S JD 5H 
+ Player 2 hand : 3H TH TC 9C KC 
+you have the high card JD 
+Pair
+player 2 wins
+done processing line 343
+ Player 1 hand : AS 3D 9H 7D 4D 
+ Player 2 hand : TH KH 2H 7S 3H 
+you have the high card AS 
+you have the high card KH 
+ faceoff returned 1
+player 1 wins
+done processing line 344
+ Player 1 hand : 4H 7S KS 2S JS 
+ Player 2 hand : TS 8S 2H QD 8D 
+you have the high card KS 
+Pair
+player 2 wins
+done processing line 345
+ Player 1 hand : 5S 6H JH KS 8H 
+ Player 2 hand : 2S QC AC 6S 3S 
+you have the high card KS 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 346
+ Player 1 hand : JC AS AD QS 8H 
+ Player 2 hand : 6C KH 4C 4D QD 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 347
+ Player 1 hand : 2S 3D TS TD 9S 
+ Player 2 hand : KS 6S QS 5C 8D 
+Pair
+you have the high card KS 
+player 1 wins
+done processing line 348
+ Player 1 hand : 3C 6D 4S QC KC 
+ Player 2 hand : JH QD TH KH AD 
+you have the high card KC 
+Straight
+player 2 wins
+done processing line 349
+ Player 1 hand : 9H AH 4D KS 2S 
+ Player 2 hand : 8D JH JC 7C QS 
+you have the high card AH 
+Pair
+player 2 wins
+done processing line 350
+ Player 1 hand : 2D 6C TH 3C 8H 
+ Player 2 hand : QD QH 2S 3S KS 
+you have the high card TH 
+Pair
+player 2 wins
+done processing line 351
+ Player 1 hand : 6H 5D 9S 4C TS 
+ Player 2 hand : TD JS QD 9D JD 
+you have the high card TS 
+Pair
+player 2 wins
+done processing line 352
+ Player 1 hand : 5H 8H KH 8S KS 
+ Player 2 hand : 7C TD AD 4S KD 
+Two Pair
+you have the high card AD 
+player 1 wins
+done processing line 353
+ Player 1 hand : 2C 7C JC 5S AS 
+ Player 2 hand : 6C 7D 8S 5H 9C 
+you have the high card AS 
+Straight
+player 2 wins
+done processing line 354
+ Player 1 hand : 6S QD 9S TS KH 
+ Player 2 hand : QS 5S QH 3C KC 
+you have the high card KH 
+Pair
+player 2 wins
+done processing line 355
+ Player 1 hand : 7D 3H 3C KD 5C 
+ Player 2 hand : AS JH 7H 6H JD 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 356
+ Player 1 hand : 9D 5C 9H KC 8H 
+ Player 2 hand : KS 4S AD 4D 2S 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 357
+ Player 1 hand : 3S JD QD 8D 2S 
+ Player 2 hand : 7C 5S 6S 5H TS 
+you have the high card QD 
+Pair
+player 2 wins
+done processing line 358
+ Player 1 hand : 6D 9S KC TD 3S 
+ Player 2 hand : 6H QD JD 5C 8D 
+you have the high card KC 
+you have the high card QD 
+ faceoff returned 1
+player 1 wins
+done processing line 359
+ Player 1 hand : 5H 9D TS KD 8D 
+ Player 2 hand : 6H TD QC 4C 7D 
+you have the high card KD 
+you have the high card QC 
+ faceoff returned 1
+player 1 wins
+done processing line 360
+ Player 1 hand : 6D 4S JD 9D AH 
+ Player 2 hand : 9S AS TD 9H QD 
+you have the high card AH 
+Pair
+player 2 wins
+done processing line 361
+ Player 1 hand : 2D 5S 2H 9C 6H 
+ Player 2 hand : 9S TD QC 7D TC 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 362
+ Player 1 hand : 3S 2H KS TS 2C 
+ Player 2 hand : 9C 8S JS 9D 7D 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 363
+ Player 1 hand : 3C KC 6D 5D 6C 
+ Player 2 hand : 6H 8S AS 7S QS 
+Pair
+you have the high card AS 
+player 1 wins
+done processing line 364
+ Player 1 hand : JH 9S 2H 8D 4C 
+ Player 2 hand : 8H 9H AD TH KH 
+you have the high card JH 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 365
+ Player 1 hand : QC AS 2S JS 5C 
+ Player 2 hand : 6H KD 3H 7H 2C 
+you have the high card AS 
+you have the high card KD 
+ faceoff returned 1
+player 1 wins
+done processing line 366
+ Player 1 hand : QD 8H 2S 8D 3S 
+ Player 2 hand : 6D AH 2C TC 5C 
+Pair
+you have the high card AH 
+player 1 wins
+done processing line 367
+ Player 1 hand : JD JS TS 8S 3H 
+ Player 2 hand : 5D TD KC JC 6H 
+Pair
+you have the high card KC 
+player 1 wins
+done processing line 368
+ Player 1 hand : 6S QS TC 3H 5D 
+ Player 2 hand : AH JC 7C 7D 4H 
+you have the high card QS 
+Pair
+player 2 wins
+done processing line 369
+ Player 1 hand : 7C 5D 8H 9C 2H 
+ Player 2 hand : 9H JH KH 5S 2C 
+you have the high card 9C 
+you have the high card KH 
+ faceoff returned 2
+player 2 wins
+done processing line 370
+ Player 1 hand : 9C 7H 6S TH 3S 
+ Player 2 hand : QC QD 4C AC JD 
+you have the high card TH 
+Pair
+player 2 wins
+done processing line 371
+ Player 1 hand : 2H 5D 9S 7D KC 
+ Player 2 hand : 3S QS 2D AS KH 
+you have the high card KC 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 372
+ Player 1 hand : 2S 4S 2H 7D 5C 
+ Player 2 hand : TD TH QH 9S 4D 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 373
+ Player 1 hand : 6D 3S TS 6H 4H 
+ Player 2 hand : KS 9D 8H 5S 2D 
+Pair
+you have the high card KS 
+player 1 wins
+done processing line 374
+ Player 1 hand : 9H KS 4H 3S 5C 
+ Player 2 hand : 5D KH 6H 6S JS 
+you have the high card KS 
+Pair
+player 2 wins
+done processing line 375
+ Player 1 hand : KC AS 8C 4C JC 
+ Player 2 hand : KH QC TH QD AH 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 376
+ Player 1 hand : 6S KH 9S 2C 5H 
+ Player 2 hand : TC 3C 7H JC 4D 
+you have the high card KH 
+you have the high card JC 
+ faceoff returned 1
+player 1 wins
+done processing line 377
+ Player 1 hand : JD 4S 6S 5S 8D 
+ Player 2 hand : 7H 7S 4D 4C 2H 
+you have the high card JD 
+Two Pair
+player 2 wins
+done processing line 378
+ Player 1 hand : 7H 9H 5D KH 9C 
+ Player 2 hand : 7C TS TC 7S 5H 
+Pair
+Two Pair
+player 2 wins
+done processing line 379
+ Player 1 hand : 4C 8D QC TS 4S 
+ Player 2 hand : 9H 3D AD JS 7C 
+Pair
+you have the high card AD 
+player 1 wins
+done processing line 380
+ Player 1 hand : 8C QS 5C 5D 3H 
+ Player 2 hand : JS AH KC 4S 9D 
+Pair
+you have the high card AH 
+player 1 wins
+done processing line 381
+ Player 1 hand : TS JD 8S QS TH 
+ Player 2 hand : JH KH 2D QD JS 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 382
+ Player 1 hand : JD QC 5D 6S 9H 
+ Player 2 hand : 3S 2C 8H 9S TS 
+you have the high card QC 
+you have the high card TS 
+ faceoff returned 1
+player 1 wins
+done processing line 383
+ Player 1 hand : 2S 4C AD 7H JC 
+ Player 2 hand : 5C 2D 6D 4H 3D 
+you have the high card AD 
+Straight
+player 2 wins
+done processing line 384
+ Player 1 hand : 7S JS 2C 4H 8C 
+ Player 2 hand : AD QD 9C 3S TD 
+you have the high card JS 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 385
+ Player 1 hand : JD TS 4C 6H 9H 
+ Player 2 hand : 7D QD 6D 3C AS 
+you have the high card JD 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 386
+ Player 1 hand : AS 7C 4C 6S 5D 
+ Player 2 hand : 5S 5C JS QC 4S 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 387
+ Player 1 hand : KD 6S 9S 7C 3C 
+ Player 2 hand : 5S 7D JH QD JS 
+you have the high card KD 
+Pair
+player 2 wins
+done processing line 388
+ Player 1 hand : 4S 7S JH 2C 8S 
+ Player 2 hand : 5D 7H 3D QH AD 
+you have the high card JH 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 389
+ Player 1 hand : TD 6H 2H 8D 4H 
+ Player 2 hand : 2D 7C AD KH 5D 
+you have the high card TD 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 390
+ Player 1 hand : TS 3S 5H 2C QD 
+ Player 2 hand : AH 2S 5C KH TD 
+you have the high card QD 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 391
+ Player 1 hand : KC 4D 8C 5D AS 
+ Player 2 hand : 6C 2H 2S 9H 7C 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 392
+ Player 1 hand : KD JS QC TS QS 
+ Player 2 hand : KH JH 2C 5D AD 
+Pair
+you have the high card AD 
+player 1 wins
+done processing line 393
+ Player 1 hand : 3S 5H KC 6C 9H 
+ Player 2 hand : 3H 2H AD 7D 7S 
+you have the high card KC 
+Pair
+player 2 wins
+done processing line 394
+ Player 1 hand : 7S JS JH KD 8S 
+ Player 2 hand : 7D 2S 9H 7C 2H 
+Pair
+Two Pair
+player 2 wins
+done processing line 395
+ Player 1 hand : 9H 2D 8D QC 6S 
+ Player 2 hand : AD AS 8H 5H 6C 
+you have the high card QC 
+Pair
+player 2 wins
+done processing line 396
+ Player 1 hand : 2S 7H 6C 6D 7D 
+ Player 2 hand : 8C 5D 9D JC 3C 
+Two Pair
+you have the high card JC 
+player 1 wins
+done processing line 397
+ Player 1 hand : 7C 9C 7H JD 2H 
+ Player 2 hand : KD 3S KH AD 4S 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 398
+ Player 1 hand : QH AS 9H 4D JD 
+ Player 2 hand : KS KD TS KH 5H 
+you have the high card AS 
+Trips
+player 2 wins
+done processing line 399
+ Player 1 hand : 4C 8H 5S 3S 3D 
+ Player 2 hand : 7D TD AD 7S KC 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 400
+ Player 1 hand : JS 8S 5S JC 8H 
+ Player 2 hand : TH 9C 4D 5D KC 
+Two Pair
+you have the high card KC 
+player 1 wins
+done processing line 401
+ Player 1 hand : 7C 5S 9C QD 2C 
+ Player 2 hand : QH JS 5H 8D KH 
+you have the high card QD 
+you have the high card KH 
+ faceoff returned 2
+player 2 wins
+done processing line 402
+ Player 1 hand : TD 2S KS 3D AD 
+ Player 2 hand : KC 7S TC 3C 5D 
+you have the high card AD 
+you have the high card KC 
+ faceoff returned 1
+player 1 wins
+done processing line 403
+ Player 1 hand : 4C 2S AD QS 6C 
+ Player 2 hand : 9S QD TH QH 5C 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 404
+ Player 1 hand : 8C AD QS 2D 2S 
+ Player 2 hand : KC JD KS 6C JC 
+Pair
+Two Pair
+player 2 wins
+done processing line 405
+ Player 1 hand : 8D 4D JS 2H 5D 
+ Player 2 hand : QD 7S 7D QH TS 
+you have the high card JS 
+Two Pair
+player 2 wins
+done processing line 406
+ Player 1 hand : 6S 7H 3S 8C 8S 
+ Player 2 hand : 9D QS 8H 6C 9S 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 407
+ Player 1 hand : 4S TC 2S 5C QD 
+ Player 2 hand : 4D QS 6D TH 6S 
+you have the high card QD 
+Pair
+player 2 wins
+done processing line 408
+ Player 1 hand : 3S 5C 9D 6H 8D 
+ Player 2 hand : 4C 7D TC 7C TD 
+you have the high card 9D 
+Two Pair
+player 2 wins
+done processing line 409
+ Player 1 hand : AH 6S AS 7H 5S 
+ Player 2 hand : KD 3H 5H AC 4C 
+Pair
+you have the high card AC 
+player 1 wins
+done processing line 410
+ Player 1 hand : 8D 8S AH KS QS 
+ Player 2 hand : 2C AD 6H 7D 5D 
+Pair
+you have the high card AD 
+player 1 wins
+done processing line 411
+ Player 1 hand : 6H 9H 9S 2H QS 
+ Player 2 hand : 8S 9C 5D 2D KD 
+Pair
+you have the high card KD 
+player 1 wins
+done processing line 412
+ Player 1 hand : TS QC 5S JH 7D 
+ Player 2 hand : 7S TH 9S 9H AC 
+you have the high card QC 
+Pair
+player 2 wins
+done processing line 413
+ Player 1 hand : 7H 3H 6S KC 4D 
+ Player 2 hand : 6D 5C 4S QD TS 
+you have the high card KC 
+you have the high card QD 
+ faceoff returned 1
+player 1 wins
+done processing line 414
+ Player 1 hand : TD 2S 7C QD 3H 
+ Player 2 hand : JH 9D 4H 7S 7H 
+you have the high card QD 
+Pair
+player 2 wins
+done processing line 415
+ Player 1 hand : KS 3D 4H 5H TC 
+ Player 2 hand : 2S AS 2D 6D 7D 
+you have the high card KS 
+Pair
+player 2 wins
+done processing line 416
+ Player 1 hand : 8H 3C 7H TD 3H 
+ Player 2 hand : AD KC TH 9C KH 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 417
+ Player 1 hand : TC 4C 2C 9S 9D 
+ Player 2 hand : 9C 5C 2H JD 3C 
+Pair
+you have the high card JD 
+player 1 wins
+done processing line 418
+ Player 1 hand : 3H AC TS 5D AD 
+ Player 2 hand : 8D 6H QC 6S 8C 
+Pair
+Two Pair
+player 2 wins
+done processing line 419
+ Player 1 hand : 2S TS 3S JD 7H 
+ Player 2 hand : 8S QH 4C 5S 8D 
+you have the high card JD 
+Pair
+player 2 wins
+done processing line 420
+ Player 1 hand : AC 4S 6C 3C KH 
+ Player 2 hand : 3D 7C 2D 8S 2H 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 421
+ Player 1 hand : 4H 6C 8S TH 2H 
+ Player 2 hand : 4S 8H 9S 3H 7S 
+you have the high card TH 
+you have the high card 9S 
+ faceoff returned 1
+player 1 wins
+done processing line 422
+ Player 1 hand : 7C 4C 9C 2C 5C 
+ Player 2 hand : AS 5D KD 4D QH 
+Flush
+you have the high card AS 
+player 1 wins
+done processing line 423
+ Player 1 hand : 9H 4H TS AS 7D 
+ Player 2 hand : 8D 5D 9S 8C 2H 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 424
+ Player 1 hand : QC KD AC AD 2H 
+ Player 2 hand : 7S AS 3S 2D 9S 
+Pair
+you have the high card AS 
+player 1 wins
+done processing line 425
+ Player 1 hand : 2H QC 8H TC 6D 
+ Player 2 hand : QD QS 5D KH 3C 
+you have the high card QC 
+Pair
+player 2 wins
+done processing line 426
+ Player 1 hand : TH JD QS 4C 2S 
+ Player 2 hand : 5S AD 7H 3S AS 
+you have the high card QS 
+Pair
+player 2 wins
+done processing line 427
+ Player 1 hand : 7H JS 3D 6C 3S 
+ Player 2 hand : 6D AS 9S AC QS 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 428
+ Player 1 hand : 9C TS AS 8C TC 
+ Player 2 hand : 8S 6H 9D 8D 6C 
+Pair
+Two Pair
+player 2 wins
+done processing line 429
+ Player 1 hand : 4D JD 9C KC 7C 
+ Player 2 hand : 6D KS 3S 8C AS 
+you have the high card KC 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 430
+ Player 1 hand : 3H 6S TC 8D TS 
+ Player 2 hand : 3S KC 9S 7C AS 
+Pair
+you have the high card AS 
+player 1 wins
+done processing line 431
+ Player 1 hand : 8C QC 4H 4S 8S 
+ Player 2 hand : 6C 3S TC AH AC 
+Two Pair
+Pair
+player 1 wins
+done processing line 432
+ Player 1 hand : 4D 7D 5C AS 2H 
+ Player 2 hand : 6S TS QC AD TC 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 433
+ Player 1 hand : QD QC 8S 4S TH 
+ Player 2 hand : 3D AH TS JH 4H 
+Pair
+you have the high card AH 
+player 1 wins
+done processing line 434
+ Player 1 hand : 5C 2D 9S 2C 3H 
+ Player 2 hand : 3C 9D QD QH 7D 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 435
+ Player 1 hand : KC 9H 6C KD 7S 
+ Player 2 hand : 3C 4D AS TC 2D 
+Pair
+you have the high card AS 
+player 1 wins
+done processing line 436
+ Player 1 hand : 3D JS 4D 9D KS 
+ Player 2 hand : 7D TH QC 3H 3C 
+you have the high card KS 
+Pair
+player 2 wins
+done processing line 437
+ Player 1 hand : 8D 5S 2H 9D 3H 
+ Player 2 hand : 8C 4C 4H 3C TH 
+you have the high card 9D 
+Pair
+player 2 wins
+done processing line 438
+ Player 1 hand : JC TH 4S 6S JD 
+ Player 2 hand : 2D 4D 6C 3D 4C 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 439
+ Player 1 hand : TS 3S 2D 4H AC 
+ Player 2 hand : 2C 6S 2H JH 6H 
+you have the high card AC 
+Two Pair
+player 2 wins
+done processing line 440
+ Player 1 hand : TD 8S AD TC AH 
+ Player 2 hand : AC JH 9S 6S 7S 
+Two Pair
+you have the high card AC 
+player 1 wins
+done processing line 441
+ Player 1 hand : 6C KC 4S JD 8D 
+ Player 2 hand : 9H 5S 7H QH AH 
+you have the high card KC 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 442
+ Player 1 hand : KD 8D TS JH 5C 
+ Player 2 hand : 5H 3H AD AS JS 
+you have the high card KD 
+Pair
+player 2 wins
+done processing line 443
+ Player 1 hand : 2D 4H 3D 6C 8C 
+ Player 2 hand : 7S AD 5D 5C 8S 
+you have the high card 8C 
+Pair
+player 2 wins
+done processing line 444
+ Player 1 hand : TD 5D 7S 9C 4S 
+ Player 2 hand : 5H 6C 8C 4C 8S 
+you have the high card TD 
+Pair
+player 2 wins
+done processing line 445
+ Player 1 hand : JS QH 9C AS 5C 
+ Player 2 hand : QS JC 3D QC 7C 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 446
+ Player 1 hand : JC 9C KH JH QS 
+ Player 2 hand : QC 2C TS 3D AD 
+Pair
+you have the high card AD 
+player 1 wins
+done processing line 447
+ Player 1 hand : 5D JH AC 5C 9S 
+ Player 2 hand : TS 4C JD 8C KS 
+Pair
+you have the high card KS 
+player 1 wins
+done processing line 448
+ Player 1 hand : KC AS 2D KH 9H 
+ Player 2 hand : 2C 5S 4D 3D 6H 
+Pair
+Straight
+player 2 wins
+done processing line 449
+ Player 1 hand : TH AH 2D 8S JC 
+ Player 2 hand : 3D 8C QH 7S 3S 
+you have the high card AH 
+Pair
+player 2 wins
+done processing line 450
+ Player 1 hand : 8H QD 4H JC AS 
+ Player 2 hand : KH KS 3C 9S 6D 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 451
+ Player 1 hand : 9S QH 7D 9C 4S 
+ Player 2 hand : AC 7H KH 4D KD 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 452
+ Player 1 hand : AH AD TH 6D 9C 
+ Player 2 hand : 9S KD KS QH 4H 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 453
+ Player 1 hand : QD 6H 9C 7C QS 
+ Player 2 hand : 6D 6S 9D 5S JH 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 454
+ Player 1 hand : AH 8D 5H QD 2H 
+ Player 2 hand : JC KS 4H KH 5S 
+you have the high card AH 
+Pair
+player 2 wins
+done processing line 455
+ Player 1 hand : 5C 2S JS 8D 9C 
+ Player 2 hand : 8C 3D AS KC AH 
+you have the high card JS 
+Pair
+player 2 wins
+done processing line 456
+ Player 1 hand : JD 9S 2H QS 8H 
+ Player 2 hand : 5S 8C TH 5C 4C 
+you have the high card QS 
+Pair
+player 2 wins
+done processing line 457
+ Player 1 hand : QC QS 8C 2S 2C 
+ Player 2 hand : 3S 9C 4C KS KH 
+Two Pair
+Pair
+player 1 wins
+done processing line 458
+ Player 1 hand : 2D 5D 8S AH AD 
+ Player 2 hand : TD 2C JS KS 8C 
+Pair
+you have the high card KS 
+player 1 wins
+done processing line 459
+ Player 1 hand : TC 5S 5H 8H QC 
+ Player 2 hand : 9H 6H JD 4H 9S 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 460
+ Player 1 hand : 3C JH 4H 9H AH 
+ Player 2 hand : 4S 2H 4C 8D AC 
+you have the high card AH 
+Pair
+player 2 wins
+done processing line 461
+ Player 1 hand : 8S TH 4D 7D 6D 
+ Player 2 hand : QD QS 7S TC 7C 
+you have the high card TH 
+Two Pair
+player 2 wins
+done processing line 462
+ Player 1 hand : KH 6D 2D JD 5H 
+ Player 2 hand : JS QD JH 4H 4S 
+you have the high card KH 
+Two Pair
+player 2 wins
+done processing line 463
+ Player 1 hand : 9C 7S JH 4S 3S 
+ Player 2 hand : TS QC 8C TC 4H 
+you have the high card JH 
+Pair
+player 2 wins
+done processing line 464
+ Player 1 hand : QH 9D 4D JH QS 
+ Player 2 hand : 3S 2C 7C 6C 2D 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 465
+ Player 1 hand : 4H 9S JD 5C 5H 
+ Player 2 hand : AH 9D TS 2D 4C 
+Pair
+you have the high card AH 
+player 1 wins
+done processing line 466
+ Player 1 hand : KS JH TS 5D 2D 
+ Player 2 hand : AH JS 7H AS 8D 
+you have the high card KS 
+Pair
+player 2 wins
+done processing line 467
+ Player 1 hand : JS AH 8C AD KS 
+ Player 2 hand : 5S 8H 2C 6C TH 
+Pair
+you have the high card TH 
+player 1 wins
+done processing line 468
+ Player 1 hand : 2H 5D AD AC KS 
+ Player 2 hand : 3D 8H TS 6H QC 
+Pair
+you have the high card QC 
+player 1 wins
+done processing line 469
+ Player 1 hand : 6D 4H TS 9C 5H 
+ Player 2 hand : JS JH 6S JD 4C 
+you have the high card TS 
+Trips
+player 2 wins
+done processing line 470
+ Player 1 hand : JH QH 4H 2C 6D 
+ Player 2 hand : 3C 5D 4C QS KC 
+you have the high card QH 
+you have the high card KC 
+ faceoff returned 2
+player 2 wins
+done processing line 471
+ Player 1 hand : 6H 4H 6C 7H 6S 
+ Player 2 hand : 2S 8S KH QC 8C 
+Trips
+Pair
+player 1 wins
+done processing line 472
+ Player 1 hand : 3H 3D 5D KS 4H 
+ Player 2 hand : TD AD 3S 4D TS 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 473
+ Player 1 hand : 5S 7C 8S 7D 2C 
+ Player 2 hand : KS 7S 6C 8C JS 
+Pair
+you have the high card KS 
+player 1 wins
+done processing line 474
+ Player 1 hand : 5D 2H 3S 7C 5C 
+ Player 2 hand : QD 5H 6D 9C 9H 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 475
+ Player 1 hand : JS 2S KD 9S 8D 
+ Player 2 hand : TD TS AC 8C 9D 
+you have the high card KD 
+Pair
+player 2 wins
+done processing line 476
+ Player 1 hand : 5H QD 2S AC 8C 
+ Player 2 hand : 9H KS 7C 4S 3C 
+you have the high card AC 
+you have the high card KS 
+ faceoff returned 1
+player 1 wins
+done processing line 477
+ Player 1 hand : KH AS 3H 8S 9C 
+ Player 2 hand : JS QS 4S AD 4D 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 478
+ Player 1 hand : AS 2S TD AD 4D 
+ Player 2 hand : 9H JC 4C 5H QS 
+Pair
+you have the high card QS 
+player 1 wins
+done processing line 479
+ Player 1 hand : 5D 7C 4H TC 2D 
+ Player 2 hand : 6C JS 4S KC 3S 
+you have the high card TC 
+you have the high card KC 
+ faceoff returned 2
+player 2 wins
+done processing line 480
+ Player 1 hand : 4C 2C 5D AC 9H 
+ Player 2 hand : 3D JD 8S QS QH 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 481
+ Player 1 hand : 2C 8S 6H 3C QH 
+ Player 2 hand : 6D TC KD AC AH 
+you have the high card QH 
+Pair
+player 2 wins
+done processing line 482
+ Player 1 hand : QC 6C 3S QS 4S 
+ Player 2 hand : AC 8D 5C AD KH 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 483
+ Player 1 hand : 5S 4C AC KH AS 
+ Player 2 hand : QC 2C 5C 8D 9C 
+Pair
+you have the high card QC 
+player 1 wins
+done processing line 484
+ Player 1 hand : 8H JD 3C KH 8D 
+ Player 2 hand : 5C 9C QD QH 9D 
+Pair
+Two Pair
+player 2 wins
+done processing line 485
+ Player 1 hand : 7H TS 2C 8C 4S 
+ Player 2 hand : TD JC 9C 5H QH 
+you have the high card TS 
+you have the high card QH 
+ faceoff returned 2
+player 2 wins
+done processing line 486
+ Player 1 hand : JS 4S 2C 7C TH 
+ Player 2 hand : 6C AS KS 7S JD 
+you have the high card JS 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 487
+ Player 1 hand : JH 7C 9H 7H TC 
+ Player 2 hand : 5H 3D 6D 5D 4D 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 488
+ Player 1 hand : 2C QD JH 2H 9D 
+ Player 2 hand : 5S 3D TD AD KS 
+Pair
+you have the high card AD 
+player 1 wins
+done processing line 489
+ Player 1 hand : JD QH 3S 4D TH 
+ Player 2 hand : 7D 6S QS KS 4H 
+you have the high card QH 
+you have the high card KS 
+ faceoff returned 2
+player 2 wins
+done processing line 490
+ Player 1 hand : TC KS 5S 8D 8H 
+ Player 2 hand : AD 2S 2D 4C JH 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 491
+ Player 1 hand : 5S JH TC 3S 2D 
+ Player 2 hand : QS 9D 4C KD 9S 
+you have the high card JH 
+Pair
+player 2 wins
+done processing line 492
+ Player 1 hand : AC KH 3H AS 9D 
+ Player 2 hand : KC 9H QD 6C 6S 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 493
+ Player 1 hand : 9H 7S 3D 5C 7D 
+ Player 2 hand : KC TD 8H 4H 6S 
+Pair
+you have the high card KC 
+player 1 wins
+done processing line 494
+ Player 1 hand : 3C 7H 8H TC QD 
+ Player 2 hand : 4D 7S 6S QH 6C 
+you have the high card QD 
+Pair
+player 2 wins
+done processing line 495
+ Player 1 hand : 6D AD 4C QD 6C 
+ Player 2 hand : 5D 7D 9D KS TS 
+Pair
+you have the high card KS 
+player 1 wins
+done processing line 496
+ Player 1 hand : JH 2H JD 9S 7S 
+ Player 2 hand : TS KH 8D 5D 8H 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 497
+ Player 1 hand : 2D 9S 4C 7D 9D 
+ Player 2 hand : 5H QD 6D AC 6S 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 498
+ Player 1 hand : 7S 6D JC QD JH 
+ Player 2 hand : 4C 6S QS 2H 7D 
+Pair
+you have the high card QS 
+player 1 wins
+done processing line 499
+ Player 1 hand : 8C TD JH KD 2H 
+ Player 2 hand : 5C QS 2C JS 7S 
+you have the high card KD 
+you have the high card QS 
+ faceoff returned 1
+player 1 wins
+done processing line 500
+ Player 1 hand : TC 5H 4H JH QD 
+ Player 2 hand : 3S 5S 5D 8S KH 
+you have the high card QD 
+Pair
+player 2 wins
+done processing line 501
+ Player 1 hand : KS KH 7C 2C 5D 
+ Player 2 hand : JH 6S 9C 6D JC 
+Pair
+Two Pair
+player 2 wins
+done processing line 502
+ Player 1 hand : 5H AH JD 9C JS 
+ Player 2 hand : KC 2H 6H 4D 5S 
+Pair
+you have the high card KC 
+player 1 wins
+done processing line 503
+ Player 1 hand : AS 3C TH QC 6H 
+ Player 2 hand : 9C 8S 8C TD 7C 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 504
+ Player 1 hand : KC 2C QD 9C KH 
+ Player 2 hand : 4D 7S 3C TS 9H 
+Pair
+you have the high card TS 
+player 1 wins
+done processing line 505
+ Player 1 hand : 9C QC 2S TS 8C 
+ Player 2 hand : TD 9S QD 3S 3C 
+you have the high card QC 
+Pair
+player 2 wins
+done processing line 506
+ Player 1 hand : 4D 9D TH JH AH 
+ Player 2 hand : 6S 2S JD QH JS 
+you have the high card AH 
+Pair
+player 2 wins
+done processing line 507
+ Player 1 hand : QD 9H 6C KD 7D 
+ Player 2 hand : 7H 5D 6S 8H AH 
+you have the high card KD 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 508
+ Player 1 hand : 8H 3C 4S 2H 5H 
+ Player 2 hand : QS QH 7S 4H AC 
+you have the high card 8H 
+Pair
+player 2 wins
+done processing line 509
+ Player 1 hand : QS 3C 7S 9S 4H 
+ Player 2 hand : 3S AH KS 9D 7C 
+you have the high card QS 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 510
+ Player 1 hand : AD 5S 6S 2H 2D 
+ Player 2 hand : 5H TC 4S 3C 8C 
+Pair
+you have the high card TC 
+player 1 wins
+done processing line 511
+ Player 1 hand : QH TS 6S 4D JS 
+ Player 2 hand : KS JH AS 8S 6D 
+you have the high card QH 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 512
+ Player 1 hand : 2C 8S 2S TD 5H 
+ Player 2 hand : AS TC TS 6C KC 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 513
+ Player 1 hand : KC TS 8H 2H 3H 
+ Player 2 hand : 7C 4C 5S TH TD 
+you have the high card KC 
+Pair
+player 2 wins
+done processing line 514
+ Player 1 hand : KD AD KH 7H 7S 
+ Player 2 hand : 5D 5H 5S 2D 9C 
+Two Pair
+Trips
+player 2 wins
+done processing line 515
+ Player 1 hand : AD 9S 3D 7S 8C 
+ Player 2 hand : QC 7C 9C KD KS 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 516
+ Player 1 hand : 3C QC 9S 8C 4D 
+ Player 2 hand : 5C AS QD 6C 2C 
+you have the high card QC 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 517
+ Player 1 hand : 2H KC 8S JD 7S 
+ Player 2 hand : AC 8D 5C 2S 4D 
+you have the high card KC 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 518
+ Player 1 hand : 9D QH 3D 2S TC 
+ Player 2 hand : 3S KS 3C 9H TD 
+you have the high card QH 
+Pair
+player 2 wins
+done processing line 519
+ Player 1 hand : KD 6S AC 2C 7H 
+ Player 2 hand : 5H 3S 6C 6H 8C 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 520
+ Player 1 hand : QH TC 8S 6S KH 
+ Player 2 hand : TH 4H 5D TS 4D 
+you have the high card KH 
+Two Pair
+player 2 wins
+done processing line 521
+ Player 1 hand : 8C JS 4H 6H 2C 
+ Player 2 hand : 2H 7D AC QD 3D 
+you have the high card JS 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 522
+ Player 1 hand : QS KC 6S 2D 5S 
+ Player 2 hand : 4H TD 3H JH 4C 
+you have the high card KC 
+Pair
+player 2 wins
+done processing line 523
+ Player 1 hand : 7S 5H 7H 8H KH 
+ Player 2 hand : 6H QS TH KD 7D 
+Pair
+you have the high card KD 
+player 1 wins
+done processing line 524
+ Player 1 hand : 5H AD KD 7C KH 
+ Player 2 hand : 5S TD 6D 3C 6C 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 525
+ Player 1 hand : 8C 9C 5H JD 7C 
+ Player 2 hand : KC KH 7H 2H 3S 
+you have the high card JD 
+Pair
+player 2 wins
+done processing line 526
+ Player 1 hand : 7S 4H AD 4D 8S 
+ Player 2 hand : QS TH 3D 7H 5S 
+Pair
+you have the high card QS 
+player 1 wins
+done processing line 527
+ Player 1 hand : 8D TC KS KD 9S 
+ Player 2 hand : 6D AD JD 5C 2S 
+Pair
+you have the high card AD 
+player 1 wins
+done processing line 528
+ Player 1 hand : 7H 8H 6C QD 2H 
+ Player 2 hand : 6H 9D TC 9S 7C 
+you have the high card QD 
+Pair
+player 2 wins
+done processing line 529
+ Player 1 hand : 8D 6D 4C 7C 6C 
+ Player 2 hand : 3C TH KH JS JH 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 530
+ Player 1 hand : 5S 3S 8S JS 9H 
+ Player 2 hand : AS AD 8H 7S KD 
+you have the high card JS 
+Pair
+player 2 wins
+done processing line 531
+ Player 1 hand : JH 7C 2C KC 5H 
+ Player 2 hand : AS AD 9C 9S JS 
+you have the high card KC 
+Two Pair
+player 2 wins
+done processing line 532
+ Player 1 hand : AD AC 2C 6S QD 
+ Player 2 hand : 7C 3H TH KS KD 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 533
+ Player 1 hand : 9D JD 4H 8H 4C 
+ Player 2 hand : KH 7S TS 8C KC 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 534
+ Player 1 hand : 3S 5S 2H 7S 6H 
+ Player 2 hand : 7D KS 5C 6D AD 
+you have the high card 7S 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 535
+ Player 1 hand : 5S 8C 9H QS 7H 
+ Player 2 hand : 7S 2H 6C 7D TD 
+you have the high card QS 
+Pair
+player 2 wins
+done processing line 536
+ Player 1 hand : QS 5S TD AC 9D 
+ Player 2 hand : KC 3D TC 2D 4D 
+you have the high card AC 
+you have the high card KC 
+ faceoff returned 1
+player 1 wins
+done processing line 537
+ Player 1 hand : TD 2H 7D JD QD 
+ Player 2 hand : 4C 7H 5D KC 3D 
+you have the high card QD 
+you have the high card KC 
+ faceoff returned 2
+player 2 wins
+done processing line 538
+ Player 1 hand : 4C 3H 8S KD QH 
+ Player 2 hand : 5S QC 9H TC 5H 
+you have the high card KD 
+Pair
+player 2 wins
+done processing line 539
+ Player 1 hand : 9C QD TH 5H TS 
+ Player 2 hand : 5C 9H AH QH 2C 
+Pair
+you have the high card AH 
+player 1 wins
+done processing line 540
+ Player 1 hand : 4D 6S 3C AC 6C 
+ Player 2 hand : 3D 2C 2H TD TH 
+Pair
+Two Pair
+player 2 wins
+done processing line 541
+ Player 1 hand : AC 9C 5D QC 4D 
+ Player 2 hand : AD 8D 6D 8C KC 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 542
+ Player 1 hand : AD 3C 4H AC 8D 
+ Player 2 hand : 8H 7S 9S TD JC 
+Pair
+Straight
+player 2 wins
+done processing line 543
+ Player 1 hand : 4H 9H QH JS 2D 
+ Player 2 hand : TH TD TC KD KS 
+you have the high card QH 
+Full House
+player 2 wins
+done processing line 544
+ Player 1 hand : 5S 6S 9S 8D TH 
+ Player 2 hand : AS KH 5H 5C 8S 
+you have the high card TH 
+Pair
+player 2 wins
+done processing line 545
+ Player 1 hand : JD 2S 9S 6S 5S 
+ Player 2 hand : 8S 5D 7S 7H 9D 
+you have the high card JD 
+Pair
+player 2 wins
+done processing line 546
+ Player 1 hand : 5D 8C 4C 9D AD 
+ Player 2 hand : TS 2C 7D KD TC 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 547
+ Player 1 hand : 8S QS 4D KC 5C 
+ Player 2 hand : 8D 4S KH JD KD 
+you have the high card KC 
+Pair
+player 2 wins
+done processing line 548
+ Player 1 hand : AS 5C AD QH 7D 
+ Player 2 hand : 2H 9S 7H 7C TC 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 549
+ Player 1 hand : 2S 8S JD KH 7S 
+ Player 2 hand : 6C 6D AD 5D QC 
+you have the high card KH 
+Pair
+player 2 wins
+done processing line 550
+ Player 1 hand : 9H 6H 3S 8C 8H 
+ Player 2 hand : AH TC 4H JS TD 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 551
+ Player 1 hand : 2C TS 4D 7H 2D 
+ Player 2 hand : QC 9C 5D TH 7C 
+Pair
+you have the high card QC 
+player 1 wins
+done processing line 552
+ Player 1 hand : 6C 8H QC 5D TS 
+ Player 2 hand : JH 5C 5H 9H 4S 
+you have the high card QC 
+Pair
+player 2 wins
+done processing line 553
+ Player 1 hand : 2D QC 7H AS JS 
+ Player 2 hand : 8S 2H 4C 4H 8D 
+you have the high card AS 
+Two Pair
+player 2 wins
+done processing line 554
+ Player 1 hand : JS 6S AC KD 3D 
+ Player 2 hand : 3C 4S 7H TH KC 
+you have the high card AC 
+you have the high card KC 
+ faceoff returned 1
+player 1 wins
+done processing line 555
+ Player 1 hand : QH KH 6S QS 5S 
+ Player 2 hand : 4H 3C QD 3S 3H 
+Pair
+Trips
+player 2 wins
+done processing line 556
+ Player 1 hand : 7H AS KH 8C 4H 
+ Player 2 hand : 9C 5S 3D 6S TS 
+you have the high card AS 
+you have the high card TS 
+ faceoff returned 1
+player 1 wins
+done processing line 557
+ Player 1 hand : 9C 7C 3H 5S QD 
+ Player 2 hand : 2C 3D AD AC 5H 
+you have the high card QD 
+Pair
+player 2 wins
+done processing line 558
+ Player 1 hand : JH TD 2D 4C TS 
+ Player 2 hand : 3H KH AD 3S 7S 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 559
+ Player 1 hand : AS 4C 5H 4D 6S 
+ Player 2 hand : KD JC 3C 6H 2D 
+Pair
+you have the high card KD 
+player 1 wins
+done processing line 560
+ Player 1 hand : 3H 6S 8C 2D TH 
+ Player 2 hand : 4S AH QH AD 5H 
+you have the high card TH 
+Pair
+player 2 wins
+done processing line 561
+ Player 1 hand : 7C 2S 9H 7H KC 
+ Player 2 hand : 5C 6D 5S 3H JC 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 562
+ Player 1 hand : 3C TC 9C 4H QD 
+ Player 2 hand : TD JH 6D 9H 5S 
+you have the high card QD 
+you have the high card JH 
+ faceoff returned 1
+player 1 wins
+done processing line 563
+ Player 1 hand : 7C 6S 5C 5D 6C 
+ Player 2 hand : 4S 7H 9H 6H AH 
+Two Pair
+you have the high card AH 
+player 1 wins
+done processing line 564
+ Player 1 hand : AD 2H 7D KC 2C 
+ Player 2 hand : 4C 2S 9S 7H 3S 
+Pair
+you have the high card 9S 
+player 1 wins
+done processing line 565
+ Player 1 hand : TH 4C 8S 6S 3S 
+ Player 2 hand : AD KS AS JH TD 
+you have the high card TH 
+Pair
+player 2 wins
+done processing line 566
+ Player 1 hand : 5C TD 4S 4D AD 
+ Player 2 hand : 6S 5D TC 9C 7D 
+Pair
+you have the high card TC 
+player 1 wins
+done processing line 567
+ Player 1 hand : 8H 3S 4D 4S 5S 
+ Player 2 hand : 6H 5C AC 3H 3D 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 568
+ Player 1 hand : 9H 3C AC 4S QS 
+ Player 2 hand : 8S 9D QH 5H 4D 
+you have the high card AC 
+you have the high card QH 
+ faceoff returned 1
+player 1 wins
+done processing line 569
+ Player 1 hand : JC 6C 5H TS AC 
+ Player 2 hand : 9C JD 8C 7C QD 
+you have the high card AC 
+you have the high card QD 
+ faceoff returned 1
+player 1 wins
+done processing line 570
+ Player 1 hand : 8S 8H 9C JD 2D 
+ Player 2 hand : QC QH 6H 3C 8D 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 571
+ Player 1 hand : KS JS 2H 6H 5H 
+ Player 2 hand : QH QS 3H 7C 6D 
+you have the high card KS 
+Pair
+player 2 wins
+done processing line 572
+ Player 1 hand : TC 3H 4S 7H QC 
+ Player 2 hand : 2H 3S 8C JS KH 
+you have the high card QC 
+you have the high card KH 
+ faceoff returned 2
+player 2 wins
+done processing line 573
+ Player 1 hand : AH 8H 5S 4C 9H 
+ Player 2 hand : JD 3H 7S JC AC 
+you have the high card AH 
+Pair
+player 2 wins
+done processing line 574
+ Player 1 hand : 3C 2D 4C 5S 6C 
+ Player 2 hand : 4S QS 3S JD 3D 
+Straight
+Pair
+player 1 wins
+done processing line 575
+ Player 1 hand : 5H 2D TC AH KS 
+ Player 2 hand : 6D 7H AD 8C 6H 
+you have the high card AH 
+Pair
+player 2 wins
+done processing line 576
+ Player 1 hand : 6C 7S 3C JD 7C 
+ Player 2 hand : 8H KS KH AH 6D 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 577
+ Player 1 hand : AH 7D 3H 8H 8S 
+ Player 2 hand : 7H QS 5H 9D 2D 
+Pair
+you have the high card QS 
+player 1 wins
+done processing line 578
+ Player 1 hand : JD AC 4H 7S 8S 
+ Player 2 hand : 9S KS AS 9D QH 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 579
+ Player 1 hand : 7S 2C 8S 5S JH 
+ Player 2 hand : QS JC AH KD 4C 
+you have the high card JH 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 580
+ Player 1 hand : AH 2S 9H 4H 8D 
+ Player 2 hand : TS TD 6H QH JD 
+you have the high card AH 
+Pair
+player 2 wins
+done processing line 581
+ Player 1 hand : 4H JC 3H QS 6D 
+ Player 2 hand : 7S 9C 8S 9D 8D 
+you have the high card QS 
+Two Pair
+player 2 wins
+done processing line 582
+ Player 1 hand : 5H TD 4S 9S 4C 
+ Player 2 hand : 8C 8D 7H 3H 3D 
+Pair
+Two Pair
+player 2 wins
+done processing line 583
+ Player 1 hand : QS KH 3S 2C 2S 
+ Player 2 hand : 3C 7S TD 4S QD 
+Pair
+you have the high card QD 
+player 1 wins
+done processing line 584
+ Player 1 hand : 7C TD 4D 5S KH 
+ Player 2 hand : AC AS 7H 4C 6C 
+you have the high card KH 
+Pair
+player 2 wins
+done processing line 585
+ Player 1 hand : 2S 5H 6D JD 9H 
+ Player 2 hand : QS 8S 2C 2H TD 
+you have the high card JD 
+Pair
+player 2 wins
+done processing line 586
+ Player 1 hand : 2S TS 6H 9H 7S 
+ Player 2 hand : 4H JC 4C 5D 5S 
+you have the high card TS 
+Two Pair
+player 2 wins
+done processing line 587
+ Player 1 hand : 2C 5H 7D 4H 3S 
+ Player 2 hand : QH JC JS 6D 8H 
+you have the high card 7D 
+Pair
+player 2 wins
+done processing line 588
+ Player 1 hand : 4C QH 7C QD 3S 
+ Player 2 hand : AD TH 8S 5S TS 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 589
+ Player 1 hand : 9H TC 2S TD JC 
+ Player 2 hand : 7D 3S 3D TH QH 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 590
+ Player 1 hand : 7D 4C 8S 5C JH 
+ Player 2 hand : 8H 6S 3S KC 3H 
+you have the high card JH 
+Pair
+player 2 wins
+done processing line 591
+ Player 1 hand : JC 3H KH TC QH 
+ Player 2 hand : TH 6H 2C AC 5H 
+you have the high card KH 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 592
+ Player 1 hand : QS 2H 9D 2C AS 
+ Player 2 hand : 6S 6C 2S 8C 8S 
+Pair
+Two Pair
+player 2 wins
+done processing line 593
+ Player 1 hand : 9H 7D QC TH 4H 
+ Player 2 hand : KD QS AC 7S 3C 
+you have the high card QC 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 594
+ Player 1 hand : 4D JH 6S 5S 8H 
+ Player 2 hand : KS 9S QC 3S AS 
+you have the high card JH 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 595
+ Player 1 hand : JD 2D 6S 7S TC 
+ Player 2 hand : 9H KC 3H 7D KD 
+you have the high card JD 
+Pair
+player 2 wins
+done processing line 596
+ Player 1 hand : 2H KH 7C 4D 4S 
+ Player 2 hand : 3H JS QD 7D KC 
+Pair
+you have the high card KC 
+player 1 wins
+done processing line 597
+ Player 1 hand : 4C JC AS 9D 3C 
+ Player 2 hand : JS 6C 8H QD 4D 
+you have the high card AS 
+you have the high card QD 
+ faceoff returned 1
+player 1 wins
+done processing line 598
+ Player 1 hand : AH JS 3S 6C 4C 
+ Player 2 hand : 3D JH 6D 9C 9H 
+you have the high card AH 
+Pair
+player 2 wins
+done processing line 599
+ Player 1 hand : 9H 2D 8C 7H 5S 
+ Player 2 hand : KS 6H 9C 2S TC 
+you have the high card 9H 
+you have the high card KS 
+ faceoff returned 2
+player 2 wins
+done processing line 600
+ Player 1 hand : 6C 8C AD 7H 6H 
+ Player 2 hand : 3D KH AS 5D TH 
+Pair
+you have the high card AS 
+player 1 wins
+done processing line 601
+ Player 1 hand : KS 8C 3S TS 8S 
+ Player 2 hand : 4D 5S 9S 6C 4H 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 602
+ Player 1 hand : 9H 4S 4H 5C 7D 
+ Player 2 hand : KC 2D 2H 9D JH 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 603
+ Player 1 hand : 5C JS TC 9D 9H 
+ Player 2 hand : 5H 7S KH JC 6S 
+Pair
+you have the high card KH 
+player 1 wins
+done processing line 604
+ Player 1 hand : 7C 9H 8H 4D JC 
+ Player 2 hand : KH JD 2H TD TC 
+you have the high card JC 
+Pair
+player 2 wins
+done processing line 605
+ Player 1 hand : 8H 6C 2H 2C KH 
+ Player 2 hand : 6H 9D QS QH 5H 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 606
+ Player 1 hand : AC 7D 2S 3D QD 
+ Player 2 hand : JC 2D 8D JD JH 
+you have the high card AC 
+Trips
+player 2 wins
+done processing line 607
+ Player 1 hand : 2H JC 2D 7H 2C 
+ Player 2 hand : 3C 8D KD TD 4H 
+Trips
+you have the high card KD 
+player 1 wins
+done processing line 608
+ Player 1 hand : 3S 4H 6D 8D TS 
+ Player 2 hand : 3H TD 3D 6H TH 
+you have the high card TS 
+Two Pair
+player 2 wins
+done processing line 609
+ Player 1 hand : JH JC 3S AC QH 
+ Player 2 hand : 9H 7H 8S QC 2C 
+Pair
+you have the high card QC 
+player 1 wins
+done processing line 610
+ Player 1 hand : 7H TD QS 4S 8S 
+ Player 2 hand : 9C 2S 5D 4D 2H 
+you have the high card QS 
+Pair
+player 2 wins
+done processing line 611
+ Player 1 hand : 3D TS 3H 2S QC 
+ Player 2 hand : 8H 6H KC JC KS 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 612
+ Player 1 hand : 5D JD 7D TC 8C 
+ Player 2 hand : 6C 9S 3D 8D AC 
+you have the high card JD 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 613
+ Player 1 hand : 8H 6H JH 6C 5D 
+ Player 2 hand : 8D 8S 4H AD 2C 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 614
+ Player 1 hand : 9D 4H 2D 2C 3S 
+ Player 2 hand : TS AS TC 3C 5D 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 615
+ Player 1 hand : 4D TH 5H KS QS 
+ Player 2 hand : 6C 4S 2H 3D AD 
+you have the high card KS 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 616
+ Player 1 hand : 5C KC 6H 2C 5S 
+ Player 2 hand : 3C 4D 2D 9H 9S 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 617
+ Player 1 hand : JD 4C 3H TH QH 
+ Player 2 hand : 9H 5S AH 8S AC 
+you have the high card QH 
+Pair
+player 2 wins
+done processing line 618
+ Player 1 hand : 7D 9S 6S 2H TD 
+ Player 2 hand : 9C 4H 8H QS 4C 
+you have the high card TD 
+Pair
+player 2 wins
+done processing line 619
+ Player 1 hand : 3C 6H 5D 4H 8C 
+ Player 2 hand : 9C KC 6S QD QS 
+you have the high card 8C 
+Pair
+player 2 wins
+done processing line 620
+ Player 1 hand : 3S 9H KD TC 2D 
+ Player 2 hand : JS 8C 6S 4H 4S 
+you have the high card KD 
+Pair
+player 2 wins
+done processing line 621
+ Player 1 hand : 2S 4C 8S QS 6H 
+ Player 2 hand : KH 3H TH 8C 5D 
+you have the high card QS 
+you have the high card KH 
+ faceoff returned 2
+player 2 wins
+done processing line 622
+ Player 1 hand : 2C KH 5S 3S 7S 
+ Player 2 hand : 7H 6C 9D QD 8D 
+you have the high card KH 
+you have the high card QD 
+ faceoff returned 1
+player 1 wins
+done processing line 623
+ Player 1 hand : 8H KS AC 2D KH 
+ Player 2 hand : TS 6C JS KC 7H 
+Pair
+you have the high card KC 
+player 1 wins
+done processing line 624
+ Player 1 hand : 9C KS 5C TD QC 
+ Player 2 hand : AH 6C 5H 9S 7C 
+you have the high card KS 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 625
+ Player 1 hand : 5D 4D 3H 4H 6S 
+ Player 2 hand : 7C 7S AH QD TD 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 626
+ Player 1 hand : 2H 7D QC 6S TC 
+ Player 2 hand : TS AH 7S 9D 3H 
+you have the high card QC 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 627
+ Player 1 hand : TH 5H QD 9S KS 
+ Player 2 hand : 7S 7C 6H 8C TD 
+you have the high card KS 
+Pair
+player 2 wins
+done processing line 628
+ Player 1 hand : TH 2D 4D QC 5C 
+ Player 2 hand : 7D JD AH 9C 4H 
+you have the high card QC 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 629
+ Player 1 hand : 4H 3H AH 8D 6H 
+ Player 2 hand : QC QH 9H 2H 2C 
+you have the high card AH 
+Two Pair
+player 2 wins
+done processing line 630
+ Player 1 hand : 2D AD 4C TS 6H 
+ Player 2 hand : 7S TH 4H QS TD 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 631
+ Player 1 hand : 3C KD 2H 3H QS 
+ Player 2 hand : JD TC QC 5D 8H 
+Pair
+you have the high card QC 
+player 1 wins
+done processing line 632
+ Player 1 hand : KS JC QD TH 9S 
+ Player 2 hand : KD 8D 8C 2D 9C 
+Straight
+Pair
+player 1 wins
+done processing line 633
+ Player 1 hand : 3C QD KD 6D 4D 
+ Player 2 hand : 8D AH AD QC 8S 
+you have the high card KD 
+Two Pair
+player 2 wins
+done processing line 634
+ Player 1 hand : 8H 3S 9D 2S 3H 
+ Player 2 hand : KS 6H 4C 7C KC 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 635
+ Player 1 hand : TH 9S 5C 3D 7D 
+ Player 2 hand : 6H AC 7S 4D 2C 
+you have the high card TH 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 636
+ Player 1 hand : 5C 3D JD 4D 2D 
+ Player 2 hand : 6D 5H 9H 4C KH 
+you have the high card JD 
+you have the high card KH 
+ faceoff returned 2
+player 2 wins
+done processing line 637
+ Player 1 hand : AS 7H TD 6C 2H 
+ Player 2 hand : 3D QD KS 4C 4S 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 638
+ Player 1 hand : JC 3C AC 7C JD 
+ Player 2 hand : JS 8H 9S QC 5D 
+Pair
+you have the high card QC 
+player 1 wins
+done processing line 639
+ Player 1 hand : JD 6S 5S 2H AS 
+ Player 2 hand : 8C 7D 5H JH 3D 
+you have the high card AS 
+you have the high card JH 
+ faceoff returned 1
+player 1 wins
+done processing line 640
+ Player 1 hand : 8D TC 5S 9S 8S 
+ Player 2 hand : 3H JC 5H 7S AS 
+Pair
+you have the high card AS 
+player 1 wins
+done processing line 641
+ Player 1 hand : 5C TD 3D 7D 4H 
+ Player 2 hand : 8D 7H 4D 5D JS 
+you have the high card TD 
+you have the high card JS 
+ faceoff returned 2
+player 2 wins
+done processing line 642
+ Player 1 hand : QS 9C KS TD 2S 
+ Player 2 hand : 8S 5C 2H 4H AS 
+you have the high card KS 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 643
+ Player 1 hand : TH 7S 4H 7D 3H 
+ Player 2 hand : JD KD 5D 2S KC 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 644
+ Player 1 hand : JD 7H 4S 8H 4C 
+ Player 2 hand : JS 6H QH 5S 4H 
+Pair
+you have the high card QH 
+player 1 wins
+done processing line 645
+ Player 1 hand : 2C QS 8C 5S 3H 
+ Player 2 hand : QC 2S 6C QD AD 
+you have the high card QS 
+Pair
+player 2 wins
+done processing line 646
+ Player 1 hand : 8C 3D JD TC 4H 
+ Player 2 hand : 2H AD 5S AC 2S 
+you have the high card JD 
+Two Pair
+player 2 wins
+done processing line 647
+ Player 1 hand : 5D 2C JS 2D AD 
+ Player 2 hand : 9D 3D 4C 4S JH 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 648
+ Player 1 hand : 8D 5H 5D 6H 7S 
+ Player 2 hand : 4D KS 9D TD JD 
+Pair
+you have the high card KS 
+player 1 wins
+done processing line 649
+ Player 1 hand : 3D 6D 9C 2S AS 
+ Player 2 hand : 7D 5S 5C 8H JD 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 650
+ Player 1 hand : 7C 8S 3S 6S 5H 
+ Player 2 hand : JD TC AD 7H 7S 
+you have the high card 8S 
+Pair
+player 2 wins
+done processing line 651
+ Player 1 hand : 2S 9D TS 4D AC 
+ Player 2 hand : 8D 6C QD JD 3H 
+you have the high card AC 
+you have the high card QD 
+ faceoff returned 1
+player 1 wins
+done processing line 652
+ Player 1 hand : 9S KH 2C 3C AC 
+ Player 2 hand : 3D 5H 6H 8D 5D 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 653
+ Player 1 hand : KS 3D 2D 6S AS 
+ Player 2 hand : 4C 2S 7C 7H KH 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 654
+ Player 1 hand : AC 2H 3S JC 5C 
+ Player 2 hand : QH 4D 2D 5H 7S 
+you have the high card AC 
+you have the high card QH 
+ faceoff returned 1
+player 1 wins
+done processing line 655
+ Player 1 hand : TS AS JD 8C 6H 
+ Player 2 hand : JC 8S 5S 2C 5D 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 656
+ Player 1 hand : 7S QH 7H 6C QC 
+ Player 2 hand : 8H 2D 7C JD 2S 
+Two Pair
+Pair
+player 1 wins
+done processing line 657
+ Player 1 hand : 2C QD 2S 2H JC 
+ Player 2 hand : 9C 5D 2D JD JH 
+Trips
+Pair
+player 1 wins
+done processing line 658
+ Player 1 hand : 7C 5C 9C 8S 7D 
+ Player 2 hand : 6D 8D 6C 9S JH 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 659
+ Player 1 hand : 2C AD 6S 5H 3S 
+ Player 2 hand : KS 7S 9D KH 4C 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 660
+ Player 1 hand : 7H 6C 2C 5C TH 
+ Player 2 hand : 9D 8D 3S QC AH 
+you have the high card TH 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 661
+ Player 1 hand : 5S KC 6H TC 5H 
+ Player 2 hand : 8S TH 6D 3C AH 
+Pair
+you have the high card AH 
+player 1 wins
+done processing line 662
+ Player 1 hand : 9C KD 4H AD TD 
+ Player 2 hand : 9S 4S 7D 6H 5D 
+you have the high card AD 
+you have the high card 9S 
+ faceoff returned 1
+player 1 wins
+done processing line 663
+ Player 1 hand : 7H 5C 5H 6D AS 
+ Player 2 hand : 4C KD KH 4H 9D 
+Pair
+Two Pair
+player 2 wins
+done processing line 664
+ Player 1 hand : 3C 2S 5C 6C JD 
+ Player 2 hand : QS 2H 9D 7D 3H 
+you have the high card JD 
+you have the high card QS 
+ faceoff returned 2
+player 2 wins
+done processing line 665
+ Player 1 hand : AC 2S 6S 7S JS 
+ Player 2 hand : QD 5C QS 6H AD 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 666
+ Player 1 hand : 5H TH QC 7H TC 
+ Player 2 hand : 3S 7C 6D KC 3D 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 667
+ Player 1 hand : 4H 3D QC 9S 8H 
+ Player 2 hand : 2C 3S JC KS 5C 
+you have the high card QC 
+you have the high card KS 
+ faceoff returned 2
+player 2 wins
+done processing line 668
+ Player 1 hand : 4S 6S 2C 6H 8S 
+ Player 2 hand : 3S 3D 9H 3H JS 
+Pair
+Trips
+player 2 wins
+done processing line 669
+ Player 1 hand : 4S 8C 4D 2D 8H 
+ Player 2 hand : 9H 7D 9D AH TS 
+Two Pair
+Pair
+player 1 wins
+done processing line 670
+ Player 1 hand : 9S 2C 9H 4C 8D 
+ Player 2 hand : AS 7D 3D 6D 5S 
+Pair
+you have the high card AS 
+player 1 wins
+done processing line 671
+ Player 1 hand : 6S 4C 7H 8C 3H 
+ Player 2 hand : 5H JC AH 9D 9C 
+you have the high card 8C 
+Pair
+player 2 wins
+done processing line 672
+ Player 1 hand : 2S 7C 5S JD 8C 
+ Player 2 hand : 3S 3D 4D 7D 6S 
+you have the high card JD 
+Pair
+player 2 wins
+done processing line 673
+ Player 1 hand : 3C KC 4S 5D 7D 
+ Player 2 hand : 3D JD 7H 3H 4H 
+you have the high card KC 
+Pair
+player 2 wins
+done processing line 674
+ Player 1 hand : 9C 9H 4H 4D TH 
+ Player 2 hand : 6D QD 8S 9S 7S 
+Two Pair
+you have the high card QD 
+player 1 wins
+done processing line 675
+ Player 1 hand : 2H AC 8S 4S AD 
+ Player 2 hand : 8C 2C AH 7D TC 
+Pair
+you have the high card AH 
+player 1 wins
+done processing line 676
+ Player 1 hand : TS 9H 3C AD KS 
+ Player 2 hand : TC 3D 8C 8H JD 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 677
+ Player 1 hand : QC 8D 2C 3C 7D 
+ Player 2 hand : 7C JD 9H 9C 6C 
+you have the high card QC 
+Pair
+player 2 wins
+done processing line 678
+ Player 1 hand : AH 6S JS JH 5D 
+ Player 2 hand : AS QC 2C JD TD 
+Pair
+you have the high card AS 
+player 1 wins
+done processing line 679
+ Player 1 hand : 9H KD 2H 5D 2D 
+ Player 2 hand : 3S 7D TC AH TS 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 680
+ Player 1 hand : TD 8H AS 5D AH 
+ Player 2 hand : QC AC 6S TC 5H 
+Pair
+you have the high card AC 
+player 1 wins
+done processing line 681
+ Player 1 hand : KS 4S 7H 4D 8D 
+ Player 2 hand : 9C TC 2H 6H 3H 
+Pair
+you have the high card TC 
+player 1 wins
+done processing line 682
+ Player 1 hand : 3H KD 4S QD QH 
+ Player 2 hand : 3D 8H 8C TD 7S 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 683
+ Player 1 hand : 8S JD TC AH JS 
+ Player 2 hand : QS 2D KH KS 4D 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 684
+ Player 1 hand : 3C AD JC KD JS 
+ Player 2 hand : KH 4S TH 9H 2C 
+Pair
+you have the high card KH 
+player 1 wins
+done processing line 685
+ Player 1 hand : QC 5S JS 9S KS 
+ Player 2 hand : AS 7C QD 2S JD 
+you have the high card KS 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 686
+ Player 1 hand : KC 5S QS 3S 2D 
+ Player 2 hand : AC 5D 9H 8H KS 
+you have the high card KC 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 687
+ Player 1 hand : 6H 9C TC AD 2C 
+ Player 2 hand : 6D 5S JD 6C 7C 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 688
+ Player 1 hand : QS KH TD QD 2C 
+ Player 2 hand : 3H 8S 2S QC AH 
+Pair
+you have the high card AH 
+player 1 wins
+done processing line 689
+ Player 1 hand : 9D 9H JH TC QH 
+ Player 2 hand : 3C 2S JS 5C 7H 
+Pair
+you have the high card JS 
+player 1 wins
+done processing line 690
+ Player 1 hand : 6C 3S 3D 2S 4S 
+ Player 2 hand : QD 2D TH 5D 2C 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 691
+ Player 1 hand : 2D 6H 6D 2S JC 
+ Player 2 hand : QH AS 7H 4H KH 
+Two Pair
+you have the high card AS 
+player 1 wins
+done processing line 692
+ Player 1 hand : 5H 6S KS AD TC 
+ Player 2 hand : TS 7C AC 4S 4H 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 693
+ Player 1 hand : AD 3C 4H QS 8C 
+ Player 2 hand : 9D KS 2H 2D 4D 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 694
+ Player 1 hand : 4S 9D 6C 6D 9C 
+ Player 2 hand : AC 8D 3H 7H KD 
+Two Pair
+you have the high card AC 
+player 1 wins
+done processing line 695
+ Player 1 hand : JC AH 6C TS JD 
+ Player 2 hand : 6D AD 3S 5D QD 
+Pair
+you have the high card AD 
+player 1 wins
+done processing line 696
+ Player 1 hand : JC JH JD 3S 7S 
+ Player 2 hand : 8S JS QC 3H 4S 
+Trips
+you have the high card QC 
+player 1 wins
+done processing line 697
+ Player 1 hand : JD TH 5C 2C AD 
+ Player 2 hand : JS 7H 9S 2H 7S 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 698
+ Player 1 hand : 8D 3S JH 4D QC 
+ Player 2 hand : AS JD 2C KC 6H 
+you have the high card QC 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 699
+ Player 1 hand : 2C AC 5H KD 5S 
+ Player 2 hand : 7H QD JH AH 2D 
+Pair
+you have the high card AH 
+player 1 wins
+done processing line 700
+ Player 1 hand : JC QH 8D 8S TC 
+ Player 2 hand : 5H 5C AH 8C 6C 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 701
+ Player 1 hand : 3H JS 8S QD JH 
+ Player 2 hand : 3C 4H 6D 5C 3S 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 702
+ Player 1 hand : 6D 4S 4C AH 5H 
+ Player 2 hand : 5S 3H JD 7C 8D 
+Pair
+you have the high card JD 
+player 1 wins
+done processing line 703
+ Player 1 hand : 8H AH 2H 3H JS 
+ Player 2 hand : 3C 7D QC 4H KD 
+you have the high card AH 
+you have the high card KD 
+ faceoff returned 1
+player 1 wins
+done processing line 704
+ Player 1 hand : 6S 2H KD 5H 8H 
+ Player 2 hand : 2D 3C 8S 7S QD 
+you have the high card KD 
+you have the high card QD 
+ faceoff returned 1
+player 1 wins
+done processing line 705
+ Player 1 hand : 2S 7S KC QC AH 
+ Player 2 hand : TC QS 6D 4C 8D 
+you have the high card AH 
+you have the high card QS 
+ faceoff returned 1
+player 1 wins
+done processing line 706
+ Player 1 hand : 5S 9H 2C 3S QD 
+ Player 2 hand : 7S 6C 2H 7C 9D 
+you have the high card QD 
+Pair
+player 2 wins
+done processing line 707
+ Player 1 hand : 3C 6C 5C 5S JD 
+ Player 2 hand : JC KS 3S 5D TS 
+Pair
+you have the high card KS 
+player 1 wins
+done processing line 708
+ Player 1 hand : 7C KS 6S 5S 2S 
+ Player 2 hand : 2D TC 2H 5H QS 
+you have the high card KS 
+Pair
+player 2 wins
+done processing line 709
+ Player 1 hand : AS 7H 6S TS 5H 
+ Player 2 hand : 9S 9D 3C KD 2H 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 710
+ Player 1 hand : 4S JS QS 3S 4H 
+ Player 2 hand : 7C 2S AC 6S 9D 
+Pair
+you have the high card AC 
+player 1 wins
+done processing line 711
+ Player 1 hand : 8C JH 2H 5H 7C 
+ Player 2 hand : 5D QH QS KH QC 
+you have the high card JH 
+Trips
+player 2 wins
+done processing line 712
+ Player 1 hand : 3S TD 3H 7C KC 
+ Player 2 hand : 8D 5H 8S KH 8C 
+Pair
+Trips
+player 2 wins
+done processing line 713
+ Player 1 hand : 4H KH JD TS 3C 
+ Player 2 hand : 7H AS QC JS 5S 
+you have the high card KH 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 714
+ Player 1 hand : AH 9D 2C 8D 4D 
+ Player 2 hand : 2D 6H 6C KC 6S 
+you have the high card AH 
+Trips
+player 2 wins
+done processing line 715
+ Player 1 hand : 2S 6H 9D 3S 7H 
+ Player 2 hand : 4D KH 8H KD 3D 
+you have the high card 9D 
+Pair
+player 2 wins
+done processing line 716
+ Player 1 hand : 9C TC AC JH KH 
+ Player 2 hand : 4D JD 5H TD 3S 
+you have the high card AC 
+you have the high card JD 
+ faceoff returned 1
+player 1 wins
+done processing line 717
+ Player 1 hand : 7S 4H 9D AS 4C 
+ Player 2 hand : 7D QS 9S 2S KH 
+Pair
+you have the high card KH 
+player 1 wins
+done processing line 718
+ Player 1 hand : 3S 8D 8S KS 8C 
+ Player 2 hand : JC 5C KH 2H 5D 
+Trips
+Pair
+player 1 wins
+done processing line 719
+ Player 1 hand : 8S QH 2C 4D KC 
+ Player 2 hand : JS QC 9D AC 6H 
+you have the high card KC 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 720
+ Player 1 hand : 8S 8C 7C JS JD 
+ Player 2 hand : 6S 4C 9C AC 4S 
+Two Pair
+Pair
+player 1 wins
+done processing line 721
+ Player 1 hand : QH 5D 2C 7D JC 
+ Player 2 hand : 8S 2D JS JH 4C 
+you have the high card QH 
+Pair
+player 2 wins
+done processing line 722
+ Player 1 hand : JS 4C 7S TS JH 
+ Player 2 hand : KC KH 5H QD 4S 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 723
+ Player 1 hand : QD 8C 8D 2D 6S 
+ Player 2 hand : TD 9D AC QH 5S 
+Pair
+you have the high card AC 
+player 1 wins
+done processing line 724
+ Player 1 hand : QH QC JS 3D 3C 
+ Player 2 hand : 5C 4H KH 8S 7H 
+Two Pair
+you have the high card KH 
+player 1 wins
+done processing line 725
+ Player 1 hand : 7C 2C 5S JC 8S 
+ Player 2 hand : 3H QC 5D 2H KC 
+you have the high card JC 
+you have the high card KC 
+ faceoff returned 2
+player 2 wins
+done processing line 726
+ Player 1 hand : 5S 8D KD 6H 4H 
+ Player 2 hand : QD QH 6D AH 3D 
+you have the high card KD 
+Pair
+player 2 wins
+done processing line 727
+ Player 1 hand : 7S KS 6C 2S 4D 
+ Player 2 hand : AC QS 5H TS JD 
+you have the high card KS 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 728
+ Player 1 hand : 7C 2D TC 5D QS 
+ Player 2 hand : AC JS QC 6C KC 
+you have the high card QS 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 729
+ Player 1 hand : 2C KS 4D 3H TS 
+ Player 2 hand : 8S AD 4H 7S 9S 
+you have the high card KS 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 730
+ Player 1 hand : QD 9H QH 5H 4H 
+ Player 2 hand : 4D KH 3S JC AD 
+Pair
+you have the high card AD 
+player 1 wins
+done processing line 731
+ Player 1 hand : 4D AC KC 8D 6D 
+ Player 2 hand : 4C 2D KH 2C JD 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 732
+ Player 1 hand : 2C 9H 2D AH 3H 
+ Player 2 hand : 6D 9C 7D TC KS 
+Pair
+you have the high card KS 
+player 1 wins
+done processing line 733
+ Player 1 hand : 8C 3H KD 7C 5C 
+ Player 2 hand : 2S 4S 5H AS AH 
+you have the high card KD 
+Pair
+player 2 wins
+done processing line 734
+ Player 1 hand : TH JD 4H KD 3H 
+ Player 2 hand : TC 5C 3S AC KH 
+you have the high card KD 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 735
+ Player 1 hand : 6D 7H AH 7S QC 
+ Player 2 hand : 6H 2D TD JD AS 
+Pair
+you have the high card AS 
+player 1 wins
+done processing line 736
+ Player 1 hand : JH 5D 7H TC 9S 
+ Player 2 hand : 7D JC AS 5S KH 
+you have the high card JH 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 737
+ Player 1 hand : 2H 8C AD TH 6H 
+ Player 2 hand : QD KD 9H 6S 6C 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 738
+ Player 1 hand : QH KC 9D 4D 3S 
+ Player 2 hand : JS JH 4H 2C 9H 
+you have the high card KC 
+Pair
+player 2 wins
+done processing line 739
+ Player 1 hand : TC 7H KH 4H JC 
+ Player 2 hand : 7D 9S 3H QS 7S 
+you have the high card KH 
+Pair
+player 2 wins
+done processing line 740
+ Player 1 hand : AD 7D JH 6C 7H 
+ Player 2 hand : 4H 3S 3H 4D QH 
+Pair
+Two Pair
+player 2 wins
+done processing line 741
+ Player 1 hand : JD 2H 5C AS 6C 
+ Player 2 hand : QC 4D 3C TC JH 
+you have the high card AS 
+you have the high card QC 
+ faceoff returned 1
+player 1 wins
+done processing line 742
+ Player 1 hand : AC JD 3H 6H 4C 
+ Player 2 hand : JC AD 7D 7H 9H 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 743
+ Player 1 hand : 4H TC TS 2C 8C 
+ Player 2 hand : 6S KS 2H JD 9S 
+Pair
+you have the high card KS 
+player 1 wins
+done processing line 744
+ Player 1 hand : 4C 3H QS QC 9S 
+ Player 2 hand : 9H 6D KC 9D 9C 
+Pair
+Trips
+player 2 wins
+done processing line 745
+ Player 1 hand : 5C AD 8C 2C QH 
+ Player 2 hand : TH QD JC 8D 8H 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 746
+ Player 1 hand : QC 2C 2S QD 9C 
+ Player 2 hand : 4D 3S 8D JH QS 
+Two Pair
+you have the high card QS 
+player 1 wins
+done processing line 747
+ Player 1 hand : 9D 3S 2C 7S 7C 
+ Player 2 hand : JC TD 3C TC 9H 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 748
+ Player 1 hand : 3C TS 8H 5C 4C 
+ Player 2 hand : 2C 6S 8D 7C 4H 
+you have the high card TS 
+you have the high card 8D 
+ faceoff returned 1
+player 1 wins
+done processing line 749
+ Player 1 hand : KS 7H 2H TC 4H 
+ Player 2 hand : 2C 3S AS AH QS 
+you have the high card KS 
+Pair
+player 2 wins
+done processing line 750
+ Player 1 hand : 8C 2D 2H 2C 4S 
+ Player 2 hand : 4C 6S 7D 5S 3S 
+Trips
+Straight
+player 2 wins
+done processing line 751
+ Player 1 hand : TH QC 5D TD 3C 
+ Player 2 hand : QS KD KC KS AS 
+Pair
+Trips
+player 2 wins
+done processing line 752
+ Player 1 hand : 4D AH KD 9H KS 
+ Player 2 hand : 5C 4C 6H JC 7S 
+Pair
+you have the high card JC 
+player 1 wins
+done processing line 753
+ Player 1 hand : KC 4H 5C QS TC 
+ Player 2 hand : 2H JC 9S AH QH 
+you have the high card KC 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 754
+ Player 1 hand : 4S 9H 3H 5H 3C 
+ Player 2 hand : QD 2H QC JH 8H 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 755
+ Player 1 hand : 5D AS 7H 2C 3D 
+ Player 2 hand : JH 6H 4C 6S 7D 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 756
+ Player 1 hand : 9C JD 9H AH JS 
+ Player 2 hand : 8S QH 3H KS 8H 
+Two Pair
+Pair
+player 1 wins
+done processing line 757
+ Player 1 hand : 3S AC QC TS 4D 
+ Player 2 hand : AD 3D AH 8S 9H 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 758
+ Player 1 hand : 7H 3H QS 9C 9S 
+ Player 2 hand : 5H JH JS AH AC 
+Pair
+Two Pair
+player 2 wins
+done processing line 759
+ Player 1 hand : 8D 3C JD 2H AC 
+ Player 2 hand : 9C 7H 5S 4D 8H 
+you have the high card AC 
+you have the high card 9C 
+ faceoff returned 1
+player 1 wins
+done processing line 760
+ Player 1 hand : 7C JH 9H 6C JS 
+ Player 2 hand : 9S 7H 8C 9D 4H 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 761
+ Player 1 hand : 2D AS 9S 6H 4D 
+ Player 2 hand : JS JH 9H AD QD 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 762
+ Player 1 hand : 6H 7S JH KH AH 
+ Player 2 hand : 7H TD 5S 6S 2C 
+you have the high card AH 
+you have the high card TD 
+ faceoff returned 1
+player 1 wins
+done processing line 763
+ Player 1 hand : 8H JH 6S 5H 5S 
+ Player 2 hand : 9D TC 4C QC 9S 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 764
+ Player 1 hand : 7D 2C KD 3H 5H 
+ Player 2 hand : AS QD 7H JS 4D 
+you have the high card KD 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 765
+ Player 1 hand : TS QH 6C 8H TH 
+ Player 2 hand : 5H 3C 3H 9C 9D 
+Pair
+Two Pair
+player 2 wins
+done processing line 766
+ Player 1 hand : AD KH JS 5D 3H 
+ Player 2 hand : AS AC 9S 5C KC 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 767
+ Player 1 hand : 2C KH 8C JC QS 
+ Player 2 hand : 6D AH 2D KC TC 
+you have the high card KH 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 768
+ Player 1 hand : 9D 3H 2S 7C 4D 
+ Player 2 hand : 6D KH KS 8D 7D 
+you have the high card 9D 
+Pair
+player 2 wins
+done processing line 769
+ Player 1 hand : 9H 2S TC JH AC 
+ Player 2 hand : QC 3H 5S 3S 8H 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 770
+ Player 1 hand : 3S AS KD 8H 4C 
+ Player 2 hand : 3H 7C JH QH TS 
+you have the high card AS 
+you have the high card QH 
+ faceoff returned 1
+player 1 wins
+done processing line 771
+ Player 1 hand : 7S 6D 7H 9D JH 
+ Player 2 hand : 4C 3D 3S 6C AS 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 772
+ Player 1 hand : 4S 2H 2C 4C 8S 
+ Player 2 hand : 5H KC 8C QC QD 
+Two Pair
+Pair
+player 1 wins
+done processing line 773
+ Player 1 hand : 3H 3S 6C QS QC 
+ Player 2 hand : 2D 6S 5D 2C 9D 
+Two Pair
+Pair
+player 1 wins
+done processing line 774
+ Player 1 hand : 2H 8D JH 2S 3H 
+ Player 2 hand : 2D 6C 5C 7S AD 
+Pair
+you have the high card AD 
+player 1 wins
+done processing line 775
+ Player 1 hand : 9H JS 5D QH 8S 
+ Player 2 hand : TS 2H 7S 6S AD 
+you have the high card QH 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 776
+ Player 1 hand : 6D QC 9S 7H 5H 
+ Player 2 hand : 5C 7D KC JD 4H 
+you have the high card QC 
+you have the high card KC 
+ faceoff returned 2
+player 2 wins
+done processing line 777
+ Player 1 hand : QC 5S 9H 9C 4D 
+ Player 2 hand : 6S KS 2S 4C 7C 
+Pair
+you have the high card KS 
+player 1 wins
+done processing line 778
+ Player 1 hand : 9H 7C 4H 8D 3S 
+ Player 2 hand : 6H 5C 8H JS 7S 
+you have the high card 9H 
+you have the high card JS 
+ faceoff returned 2
+player 2 wins
+done processing line 779
+ Player 1 hand : 2D 6H JS TD 4H 
+ Player 2 hand : 4D JC TH 5H KC 
+you have the high card JS 
+you have the high card KC 
+ faceoff returned 2
+player 2 wins
+done processing line 780
+ Player 1 hand : AC 7C 8D TH 3H 
+ Player 2 hand : 9S 2D 4C KC 4D 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 781
+ Player 1 hand : KD QS 9C 7S 3D 
+ Player 2 hand : KS AD TS 4C 4H 
+you have the high card KD 
+Pair
+player 2 wins
+done processing line 782
+ Player 1 hand : QH 9C 8H 2S 7D 
+ Player 2 hand : KS 7H 5D KD 4C 
+you have the high card QH 
+Pair
+player 2 wins
+done processing line 783
+ Player 1 hand : 9C 2S 2H JC 6S 
+ Player 2 hand : 6C TC QC JH 5C 
+Pair
+you have the high card QC 
+player 1 wins
+done processing line 784
+ Player 1 hand : 7S AC 8H KC 8S 
+ Player 2 hand : 6H QS JC 3D 6S 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 785
+ Player 1 hand : JS 2D JH 8C 4S 
+ Player 2 hand : 6H 8H 6D 5D AD 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 786
+ Player 1 hand : 6H 7D 2S 4H 9H 
+ Player 2 hand : 7C AS AC 8H 5S 
+you have the high card 9H 
+Pair
+player 2 wins
+done processing line 787
+ Player 1 hand : 3C JS 4S 6D 5H 
+ Player 2 hand : 2S QH 6S 9C 2C 
+you have the high card JS 
+Pair
+player 2 wins
+done processing line 788
+ Player 1 hand : 3D 5S 6S 9S 4C 
+ Player 2 hand : QS 8D QD 8S TC 
+you have the high card 9S 
+Two Pair
+player 2 wins
+done processing line 789
+ Player 1 hand : 9C 3D AH 9H 5S 
+ Player 2 hand : 2C 7D AD JC 3S 
+Pair
+you have the high card AD 
+player 1 wins
+done processing line 790
+ Player 1 hand : 7H TC AS 3C 6S 
+ Player 2 hand : 6D 7S KH KC 9H 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 791
+ Player 1 hand : 3S TC 8H 6S 5H 
+ Player 2 hand : JH 8C 7D AC 2S 
+you have the high card TC 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 792
+ Player 1 hand : QD 9D 9C 3S JC 
+ Player 2 hand : 8C KS 8H 5D 4D 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 793
+ Player 1 hand : JS AH JD 6D 9D 
+ Player 2 hand : 8C 9H 9S 8H 3H 
+Pair
+Two Pair
+player 2 wins
+done processing line 794
+ Player 1 hand : 2D 6S 4C 4D 8S 
+ Player 2 hand : AD 4S TC AH 9H 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 795
+ Player 1 hand : TS AC QC TH KC 
+ Player 2 hand : 6D 4H 7S 8C 2H 
+Pair
+you have the high card 8C 
+player 1 wins
+done processing line 796
+ Player 1 hand : 3C QD JS 9D 5S 
+ Player 2 hand : JC AH 2H TS 9H 
+you have the high card QD 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 797
+ Player 1 hand : 3H 4D QH 5D 9C 
+ Player 2 hand : 5H 7D 4S JC 3S 
+you have the high card QH 
+you have the high card JC 
+ faceoff returned 1
+player 1 wins
+done processing line 798
+ Player 1 hand : 8S TH 3H 7C 2H 
+ Player 2 hand : JD JS TS AC 8D 
+you have the high card TH 
+Pair
+player 2 wins
+done processing line 799
+ Player 1 hand : 9C 2H TD KC JD 
+ Player 2 hand : 2S 8C 5S AD 2C 
+you have the high card KC 
+Pair
+player 2 wins
+done processing line 800
+ Player 1 hand : 3D KD 7C 5H 4D 
+ Player 2 hand : QH QD TC 6H 7D 
+you have the high card KD 
+Pair
+player 2 wins
+done processing line 801
+ Player 1 hand : 7H 2C KC 5S KD 
+ Player 2 hand : 6H AH QC 7S QH 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 802
+ Player 1 hand : 6H 5C AC 5H 2C 
+ Player 2 hand : 9C 2D 7C TD 2S 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 803
+ Player 1 hand : 4D 9D AH 3D 7C 
+ Player 2 hand : JD 4H 8C 4C KS 
+you have the high card AH 
+Pair
+player 2 wins
+done processing line 804
+ Player 1 hand : TH 3C JS QH 8H 
+ Player 2 hand : 4C AS 3D QS QC 
+you have the high card QH 
+Pair
+player 2 wins
+done processing line 805
+ Player 1 hand : 4D 7S 5H JH 6D 
+ Player 2 hand : 7D 6H JS KH 3C 
+you have the high card JH 
+you have the high card KH 
+ faceoff returned 2
+player 2 wins
+done processing line 806
+ Player 1 hand : QD 8S 7D 2H 2C 
+ Player 2 hand : 7C JC 2S 5H 8C 
+Pair
+you have the high card JC 
+player 1 wins
+done processing line 807
+ Player 1 hand : QH 8S 9D TC 2H 
+ Player 2 hand : AD 7C 8D QD 6S 
+you have the high card QH 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 808
+ Player 1 hand : 3S 7C AD 9H 2H 
+ Player 2 hand : 9S JD TS 4C 2D 
+you have the high card AD 
+you have the high card JD 
+ faceoff returned 1
+player 1 wins
+done processing line 809
+ Player 1 hand : 3S AS 4H QC 2C 
+ Player 2 hand : 8H 8S 7S TD TC 
+you have the high card AS 
+Two Pair
+player 2 wins
+done processing line 810
+ Player 1 hand : JH TH TD 3S 4D 
+ Player 2 hand : 4H 5S 5D QS 2C 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 811
+ Player 1 hand : 8C QD QH TC 6D 
+ Player 2 hand : 4S 9S 9D 4H QC 
+Pair
+Two Pair
+player 2 wins
+done processing line 812
+ Player 1 hand : 8C JS 9D 6H JD 
+ Player 2 hand : 3H AD 6S TD QC 
+Pair
+you have the high card AD 
+player 1 wins
+done processing line 813
+ Player 1 hand : KC 8S 3D 7C TD 
+ Player 2 hand : 7D 8D 9H 4S 3S 
+you have the high card KC 
+you have the high card 9H 
+ faceoff returned 1
+player 1 wins
+done processing line 814
+ Player 1 hand : 6C 4S 3D 9D KD 
+ Player 2 hand : TC KC KS AC 5S 
+you have the high card KD 
+Pair
+player 2 wins
+done processing line 815
+ Player 1 hand : 7C 6S QH 3D JS 
+ Player 2 hand : KD 6H 6D 2D 8C 
+you have the high card QH 
+Pair
+player 2 wins
+done processing line 816
+ Player 1 hand : JD 2S 5S 4H 8S 
+ Player 2 hand : AC 2D 6S TS 5C 
+you have the high card JD 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 817
+ Player 1 hand : 5H 8C 5S 3C 4S 
+ Player 2 hand : 3D 7C 8D AS 3H 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 818
+ Player 1 hand : AS TS 7C 3H AD 
+ Player 2 hand : 7D JC QS 6C 6H 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 819
+ Player 1 hand : 3S 9S 4C AC QH 
+ Player 2 hand : 5H 5D 9H TS 4H 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 820
+ Player 1 hand : 6C 5C 7H 7S TD 
+ Player 2 hand : AD JD 5S 2H 2S 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 821
+ Player 1 hand : 7D 6C KC 3S JD 
+ Player 2 hand : 8D 8S TS QS KH 
+you have the high card KC 
+Pair
+player 2 wins
+done processing line 822
+ Player 1 hand : 8S QS 8D 6C TH 
+ Player 2 hand : AC AH 2C 8H 9S 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 823
+ Player 1 hand : 7H TD KH QH 8S 
+ Player 2 hand : 3D 4D AH JD AS 
+you have the high card KH 
+Pair
+player 2 wins
+done processing line 824
+ Player 1 hand : TS 3D 2H JC 2S 
+ Player 2 hand : JH KH 6C QC JS 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 825
+ Player 1 hand : KC TH 2D 6H 7S 
+ Player 2 hand : 2S TC 8C 9D QS 
+you have the high card KC 
+you have the high card QS 
+ faceoff returned 1
+player 1 wins
+done processing line 826
+ Player 1 hand : 3C 9D 6S KH 8H 
+ Player 2 hand : 6D 5D TH 2C 2H 
+you have the high card KH 
+Pair
+player 2 wins
+done processing line 827
+ Player 1 hand : 6H TC 7D AD 4D 
+ Player 2 hand : 8S TS 9H TD 7S 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 828
+ Player 1 hand : JS 6D JD JC 2H 
+ Player 2 hand : AC 6C 3D KH 8D 
+Trips
+you have the high card AC 
+player 1 wins
+done processing line 829
+ Player 1 hand : KH JD 9S 5D 4H 
+ Player 2 hand : 4C 3H 7S QS 5C 
+you have the high card KH 
+you have the high card QS 
+ faceoff returned 1
+player 1 wins
+done processing line 830
+ Player 1 hand : 4H JD 5D 3S 3C 
+ Player 2 hand : 4D KH QH QS 7S 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 831
+ Player 1 hand : JD TS 8S QD AH 
+ Player 2 hand : 4C 6H 3S 5S 2C 
+you have the high card AH 
+Straight
+player 2 wins
+done processing line 832
+ Player 1 hand : QS 3D JD AS 8D 
+ Player 2 hand : TH 7C 6S QC KS 
+you have the high card AS 
+you have the high card KS 
+ faceoff returned 1
+player 1 wins
+done processing line 833
+ Player 1 hand : 7S 2H 8C QC 7H 
+ Player 2 hand : AC 6D 2D TH KH 
+Pair
+you have the high card AC 
+player 1 wins
+done processing line 834
+ Player 1 hand : 5S 6C 7H KH 7D 
+ Player 2 hand : AH 8C 5C 7S 3D 
+Pair
+you have the high card AH 
+player 1 wins
+done processing line 835
+ Player 1 hand : 3C KD AD 7D 6C 
+ Player 2 hand : 4D KS 2D 8C 4S 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 836
+ Player 1 hand : 7C 8D 5S 2D 2S 
+ Player 2 hand : AH AD 2C 9D TD 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 837
+ Player 1 hand : 3C AD 4S KS JH 
+ Player 2 hand : 7C 5C 8C 9C TH 
+you have the high card AD 
+you have the high card TH 
+ faceoff returned 1
+player 1 wins
+done processing line 838
+ Player 1 hand : AS TD 4D 7C JD 
+ Player 2 hand : 8C QH 3C 5H 9S 
+you have the high card AS 
+you have the high card QH 
+ faceoff returned 1
+player 1 wins
+done processing line 839
+ Player 1 hand : 3H 9C 8S 9S 6S 
+ Player 2 hand : QD KS AH 5H JH 
+Pair
+you have the high card AH 
+player 1 wins
+done processing line 840
+ Player 1 hand : QC 9C 5S 4H 2H 
+ Player 2 hand : TD 7D AS 8C 9D 
+you have the high card QC 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 841
+ Player 1 hand : 8C 2C 9D KD TC 
+ Player 2 hand : 7S 3D KH QC 3C 
+you have the high card KD 
+Pair
+player 2 wins
+done processing line 842
+ Player 1 hand : 4D AS 4C QS 5S 
+ Player 2 hand : 9D 6S JD QH KS 
+Pair
+you have the high card KS 
+player 1 wins
+done processing line 843
+ Player 1 hand : 6D AH 6C 4C 5H 
+ Player 2 hand : TS 9H 7D 3D 5S 
+Pair
+you have the high card TS 
+player 1 wins
+done processing line 844
+ Player 1 hand : QS JD 7C 8D 9C 
+ Player 2 hand : AC 3S 6S 6C KH 
+you have the high card QS 
+Pair
+player 2 wins
+done processing line 845
+ Player 1 hand : 8H JH 5D 9S 6D 
+ Player 2 hand : AS 6S 3S QC 7H 
+you have the high card JH 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 846
+ Player 1 hand : QD AD 5C JH 2H 
+ Player 2 hand : AH 4H AS KC 2C 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 847
+ Player 1 hand : JH 9C 2C 6H 2D 
+ Player 2 hand : JS 5D 9H KC 6D 
+Pair
+you have the high card KC 
+player 1 wins
+done processing line 848
+ Player 1 hand : 7D 9D KD TH 3H 
+ Player 2 hand : AS 6S QC 6H AD 
+you have the high card KD 
+Two Pair
+player 2 wins
+done processing line 849
+ Player 1 hand : JD 4H 7D KC 3H 
+ Player 2 hand : JS 3C TH 3D QS 
+you have the high card KC 
+Pair
+player 2 wins
+done processing line 850
+ Player 1 hand : 4C 3H 8C QD 5H 
+ Player 2 hand : 6H AS 8H AD JD 
+you have the high card QD 
+Pair
+player 2 wins
+done processing line 851
+ Player 1 hand : TH 8S KD 5D QC 
+ Player 2 hand : 7D JS 5S 5H TS 
+you have the high card KD 
+Pair
+player 2 wins
+done processing line 852
+ Player 1 hand : 7D KC 9D QS 3H 
+ Player 2 hand : 3C 6D TS 7S AH 
+you have the high card KC 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 853
+ Player 1 hand : 7C 4H 7H AH QC 
+ Player 2 hand : AC 4D 5D 6D TH 
+Pair
+you have the high card AC 
+player 1 wins
+done processing line 854
+ Player 1 hand : 3C 4H 2S KD 8H 
+ Player 2 hand : 5H JH TC 6C JD 
+you have the high card KD 
+Pair
+player 2 wins
+done processing line 855
+ Player 1 hand : 4S 8C 3D 4H JS 
+ Player 2 hand : TD 7S JH QS KD 
+Pair
+you have the high card KD 
+player 1 wins
+done processing line 856
+ Player 1 hand : 7C QC KD 4D 7H 
+ Player 2 hand : 6S AD TD TC KH 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 857
+ Player 1 hand : 5H 9H KC 3H 4D 
+ Player 2 hand : 3D AD 6S QD 6H 
+you have the high card KC 
+Pair
+player 2 wins
+done processing line 858
+ Player 1 hand : TH 7C 6H TS QH 
+ Player 2 hand : 5S 2C KC TD 6S 
+Pair
+you have the high card KC 
+player 1 wins
+done processing line 859
+ Player 1 hand : 7C 4D 5S JD JH 
+ Player 2 hand : 7D AC KD KH 4H 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 860
+ Player 1 hand : 7D 6C 8D 8H 5C 
+ Player 2 hand : JH 8S QD TH JD 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 861
+ Player 1 hand : 8D 7D 6C 7C 9D 
+ Player 2 hand : KD AS 5C QH JH 
+Pair
+you have the high card AS 
+player 1 wins
+done processing line 862
+ Player 1 hand : 9S 2C 8C 3C 4C 
+ Player 2 hand : KS JH 2D 8D 4H 
+you have the high card 9S 
+you have the high card KS 
+ faceoff returned 2
+player 2 wins
+done processing line 863
+ Player 1 hand : 7S 6C JH KH 8H 
+ Player 2 hand : 3H 9D 2D AH 6D 
+you have the high card KH 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 864
+ Player 1 hand : 4D TC 9C 8D 7H 
+ Player 2 hand : TD KS TH KD 3C 
+you have the high card TC 
+Two Pair
+player 2 wins
+done processing line 865
+ Player 1 hand : JD 9H 8D QD AS 
+ Player 2 hand : KD 9D 2C 2S 9C 
+you have the high card AS 
+Two Pair
+player 2 wins
+done processing line 866
+ Player 1 hand : 8D 3H 5C 7H KS 
+ Player 2 hand : 5H QH 2D 8C 9H 
+you have the high card KS 
+you have the high card QH 
+ faceoff returned 1
+player 1 wins
+done processing line 867
+ Player 1 hand : 2D TH 6D QD 6C 
+ Player 2 hand : KC 3H 3S AD 4C 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 868
+ Player 1 hand : 4H 3H JS 9D 3C 
+ Player 2 hand : TC 5H QH QC JC 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 869
+ Player 1 hand : 3D 5C 6H 3S 3C 
+ Player 2 hand : JC 5S 7S 2S QH 
+Trips
+you have the high card QH 
+player 1 wins
+done processing line 870
+ Player 1 hand : AC 5C 8C 4D 5D 
+ Player 2 hand : 4H 2S QD 3C 3H 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 871
+ Player 1 hand : 2C TD AH 9C KD 
+ Player 2 hand : JS 6S QD 4C QC 
+you have the high card AH 
+Pair
+player 2 wins
+done processing line 872
+ Player 1 hand : QS 8C 3S 4H TC 
+ Player 2 hand : JS 3H 7C JC AD 
+you have the high card QS 
+Pair
+player 2 wins
+done processing line 873
+ Player 1 hand : 5H 4D 9C KS JC 
+ Player 2 hand : TD 9S TS 8S 9H 
+you have the high card KS 
+Two Pair
+player 2 wins
+done processing line 874
+ Player 1 hand : QD TS 7D AS AC 
+ Player 2 hand : 2C TD 6H 8H AH 
+Pair
+you have the high card AH 
+player 1 wins
+done processing line 875
+ Player 1 hand : 6S AD 8C 4S 9H 
+ Player 2 hand : 8D 9D KH 8S 3C 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 876
+ Player 1 hand : QS 4D 2D 7S KH 
+ Player 2 hand : JS JC AD 4C 3C 
+you have the high card KH 
+Pair
+player 2 wins
+done processing line 877
+ Player 1 hand : QS 9S 7H KC TD 
+ Player 2 hand : TH 5H JS AC JH 
+you have the high card KC 
+Pair
+player 2 wins
+done processing line 878
+ Player 1 hand : 6D AC 2S QS 7C 
+ Player 2 hand : AS KS 6S KH 5S 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 879
+ Player 1 hand : 6D 8H KH 3C QS 
+ Player 2 hand : 2H 5C 9C 9D 6C 
+you have the high card KH 
+Pair
+player 2 wins
+done processing line 880
+ Player 1 hand : JS 2C 4C 6H 7D 
+ Player 2 hand : JC AC QD TD 3H 
+you have the high card JS 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 881
+ Player 1 hand : 4H QC 8H JD 4C 
+ Player 2 hand : KD KS 5C KC 7S 
+Pair
+Trips
+player 2 wins
+done processing line 882
+ Player 1 hand : 6D 2D 3H 2S QD 
+ Player 2 hand : 5S 7H AS TH 6S 
+Pair
+you have the high card AS 
+player 1 wins
+done processing line 883
+ Player 1 hand : AS 6D 8D 2C 8S 
+ Player 2 hand : TD 8H QD JC AH 
+Pair
+you have the high card AH 
+player 1 wins
+done processing line 884
+ Player 1 hand : 9C 9H 2D TD QH 
+ Player 2 hand : 2H 5C TC 3D 8H 
+Pair
+you have the high card TC 
+player 1 wins
+done processing line 885
+ Player 1 hand : KC 8S 3D KH 2S 
+ Player 2 hand : TS TC 6S 4D JH 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 886
+ Player 1 hand : 9H 9D QS AC KC 
+ Player 2 hand : 6H 5D 4D 8D AH 
+Pair
+you have the high card AH 
+player 1 wins
+done processing line 887
+ Player 1 hand : 9S 5C QS 4H 7C 
+ Player 2 hand : 7D 2H 8S AD JS 
+you have the high card QS 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 888
+ Player 1 hand : 3D AC 9S AS 2C 
+ Player 2 hand : 2D 2H 3H JC KH 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 889
+ Player 1 hand : 7H QH KH JD TC 
+ Player 2 hand : KS 5S 8H 4C 8D 
+you have the high card KH 
+Pair
+player 2 wins
+done processing line 890
+ Player 1 hand : 2H 7H 3S 2S 5H 
+ Player 2 hand : QS 3C AS 9H KD 
+Pair
+you have the high card AS 
+player 1 wins
+done processing line 891
+ Player 1 hand : AD 3D JD 6H 5S 
+ Player 2 hand : 9C 6D AC 9S 3S 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 892
+ Player 1 hand : 3D 5D 9C 2D AC 
+ Player 2 hand : 4S 2S AD 6C 6S 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 893
+ Player 1 hand : QC 4C 2D 3H 6S 
+ Player 2 hand : KC QH QD 2H JH 
+you have the high card QC 
+Pair
+player 2 wins
+done processing line 894
+ Player 1 hand : QC 3C 8S 4D 9S 
+ Player 2 hand : 2H 5C 8H QS QD 
+you have the high card QC 
+Pair
+player 2 wins
+done processing line 895
+ Player 1 hand : 6D KD 6S 7H 3S 
+ Player 2 hand : KH 2H 5C JC 6C 
+Pair
+you have the high card KH 
+player 1 wins
+done processing line 896
+ Player 1 hand : 3S 9S TC 6S 8H 
+ Player 2 hand : 2D AD 7S 8S TS 
+you have the high card TC 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 897
+ Player 1 hand : 3C 6H 9C 3H 5C 
+ Player 2 hand : JC 8H QH TD QD 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 898
+ Player 1 hand : 3C JS QD 5D TD 
+ Player 2 hand : 2C KH 9H TH AS 
+you have the high card QD 
+you have the high card AS 
+ faceoff returned 2
+player 2 wins
+done processing line 899
+ Player 1 hand : 9S TC JD 3D 5C 
+ Player 2 hand : 5H AD QH 9H KC 
+you have the high card JD 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 900
+ Player 1 hand : TC 7H 4H 8H 3H 
+ Player 2 hand : TD 6S AC 7C 2S 
+you have the high card TC 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 901
+ Player 1 hand : QS 9D 5D 3C JC 
+ Player 2 hand : KS 4D 6C JH 2S 
+you have the high card QS 
+you have the high card KS 
+ faceoff returned 2
+player 2 wins
+done processing line 902
+ Player 1 hand : 9S 6S 3C 7H TS 
+ Player 2 hand : 4C KD 6D 3D 9C 
+you have the high card TS 
+you have the high card KD 
+ faceoff returned 2
+player 2 wins
+done processing line 903
+ Player 1 hand : 2D 9H AH AC 7H 
+ Player 2 hand : 2S JH 3S 7C QC 
+Pair
+you have the high card QC 
+player 1 wins
+done processing line 904
+ Player 1 hand : QD 9H 3C 2H AC 
+ Player 2 hand : AS 8S KD 8C KH 
+you have the high card AC 
+Two Pair
+player 2 wins
+done processing line 905
+ Player 1 hand : 2D 7S TD TH 6D 
+ Player 2 hand : JD 8D 4D 2H 5S 
+Pair
+you have the high card JD 
+player 1 wins
+done processing line 906
+ Player 1 hand : 8S QH KD JD QS 
+ Player 2 hand : JH 4D KC 5H 3S 
+Pair
+you have the high card KC 
+player 1 wins
+done processing line 907
+ Player 1 hand : 3C KH QC 6D 8H 
+ Player 2 hand : 3S AH 7D TD 2D 
+you have the high card KH 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 908
+ Player 1 hand : 5S 9H QH 4S 6S 
+ Player 2 hand : 6C 6D TS TH 7S 
+you have the high card QH 
+Two Pair
+player 2 wins
+done processing line 909
+ Player 1 hand : 6C 4C 6D QS JS 
+ Player 2 hand : 9C TS 3H 8D 8S 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 910
+ Player 1 hand : JS 5C 7S AS 2C 
+ Player 2 hand : AH 2H AD 5S TC 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 911
+ Player 1 hand : KD 6C 9C 9D TS 
+ Player 2 hand : 2S JC 4H 2C QD 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 912
+ Player 1 hand : QS 9H TC 3H KC 
+ Player 2 hand : KS 4H 3C AD TH 
+you have the high card KC 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 913
+ Player 1 hand : KH 9C 2H KD 9D 
+ Player 2 hand : TC 7S KC JH 2D 
+Two Pair
+you have the high card KC 
+player 1 wins
+done processing line 914
+ Player 1 hand : 7C 3S KC AS 8C 
+ Player 2 hand : 5D 9C 9S QH 3H 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 915
+ Player 1 hand : 2D 8C TD 4C 2H 
+ Player 2 hand : QC 5D TC 2C 7D 
+Pair
+you have the high card QC 
+player 1 wins
+done processing line 916
+ Player 1 hand : KS 4D 6C QH TD 
+ Player 2 hand : KH 5D 7C AD 8D 
+you have the high card KS 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 917
+ Player 1 hand : 2S 9S 8S 4C 8C 
+ Player 2 hand : 3D 6H QD 7C 7H 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 918
+ Player 1 hand : 6C 8S QH 5H TS 
+ Player 2 hand : 5C 3C 4S 2S 2H 
+you have the high card QH 
+Pair
+player 2 wins
+done processing line 919
+ Player 1 hand : 8S 6S 2H JC 3S 
+ Player 2 hand : 3H 9D 8C 2S 7H 
+you have the high card JC 
+you have the high card 9D 
+ faceoff returned 1
+player 1 wins
+done processing line 920
+ Player 1 hand : QC 2C 8H 9C AC 
+ Player 2 hand : JD 4C 4H 6S 3S 
+you have the high card AC 
+Pair
+player 2 wins
+done processing line 921
+ Player 1 hand : 3H 3S 7D 4C 9S 
+ Player 2 hand : 5H 8H JC 3D TC 
+Pair
+you have the high card JC 
+player 1 wins
+done processing line 922
+ Player 1 hand : QH 2S 2D 9S KD 
+ Player 2 hand : QD 9H AD 6D 9C 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 923
+ Player 1 hand : 8D 2D KS 9S JC 
+ Player 2 hand : 4C JD KC 4S TH 
+you have the high card KS 
+Pair
+player 2 wins
+done processing line 924
+ Player 1 hand : KH TS 6D 4D 5C 
+ Player 2 hand : KD 5H AS 9H AD 
+you have the high card KH 
+Pair
+player 2 wins
+done processing line 925
+ Player 1 hand : QD JS 7C 6D 5D 
+ Player 2 hand : 5C TH 5H QH QS 
+you have the high card QD 
+Two Pair
+player 2 wins
+done processing line 926
+ Player 1 hand : 9D QH KH 5H JH 
+ Player 2 hand : 4C 4D TC TH 6C 
+you have the high card KH 
+Two Pair
+player 2 wins
+done processing line 927
+ Player 1 hand : KH AS TS 9D KD 
+ Player 2 hand : 9C 7S 4D 8H 5S 
+Pair
+you have the high card 9C 
+player 1 wins
+done processing line 928
+ Player 1 hand : KH AS 2S 7D 9D 
+ Player 2 hand : 4C TS TH AH 7C 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 929
+ Player 1 hand : KS 4D AC 8S 9S 
+ Player 2 hand : 8D TH QH 9D 5C 
+you have the high card AC 
+you have the high card QH 
+ faceoff returned 1
+player 1 wins
+done processing line 930
+ Player 1 hand : 5D 5C 8C QS TC 
+ Player 2 hand : 4C 3D 3S 2C 8D 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 931
+ Player 1 hand : 9D KS 2D 3C KC 
+ Player 2 hand : 4S 8C KH 6C JC 
+Pair
+you have the high card KH 
+player 1 wins
+done processing line 932
+ Player 1 hand : 8H AH 6H 7D 7S 
+ Player 2 hand : QD 3C 4C 6C KC 
+Pair
+you have the high card KC 
+player 1 wins
+done processing line 933
+ Player 1 hand : 3H 2C QH 8H AS 
+ Player 2 hand : 7D 4C 8C 4H KC 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 934
+ Player 1 hand : QD 5S 4H 2C TD 
+ Player 2 hand : AH JH QH 4C 8S 
+you have the high card QD 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 935
+ Player 1 hand : 3H QS 5S JS 8H 
+ Player 2 hand : 2S 9H 9C 3S 2C 
+you have the high card QS 
+Two Pair
+player 2 wins
+done processing line 936
+ Player 1 hand : 6H TS 7S JC QD 
+ Player 2 hand : AC TD KC 5S 3H 
+you have the high card QD 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 937
+ Player 1 hand : QH AS QS 7D JC 
+ Player 2 hand : KC 2C 4C 5C 5S 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 938
+ Player 1 hand : QH 3D AS JS 4H 
+ Player 2 hand : 8D 7H JC 2S 9C 
+you have the high card AS 
+you have the high card JC 
+ faceoff returned 1
+player 1 wins
+done processing line 939
+ Player 1 hand : 5D 4D 2S 4S 9D 
+ Player 2 hand : 9C 2D QS 8H 7H 
+Pair
+you have the high card QS 
+player 1 wins
+done processing line 940
+ Player 1 hand : 6D 7H 3H JS TS 
+ Player 2 hand : AC 2D JH 7C 8S 
+you have the high card JS 
+you have the high card AC 
+ faceoff returned 2
+player 2 wins
+done processing line 941
+ Player 1 hand : JH 5H KC 3C TC 
+ Player 2 hand : 5S 9H 4C 8H 9D 
+you have the high card KC 
+Pair
+player 2 wins
+done processing line 942
+ Player 1 hand : 8S KC 5H 9H AD 
+ Player 2 hand : KS 9D KH 8D AH 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 943
+ Player 1 hand : JC 2H 9H KS 6S 
+ Player 2 hand : 3H QC 5H AH 9C 
+you have the high card KS 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 944
+ Player 1 hand : 5C KH 5S AD 6C 
+ Player 2 hand : JC 9H QC 9C TD 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 945
+ Player 1 hand : 5S 5D JC QH 2D 
+ Player 2 hand : KS 8H QS 2H TS 
+Pair
+you have the high card KS 
+player 1 wins
+done processing line 946
+ Player 1 hand : JH 5H 5S AH 7H 
+ Player 2 hand : 3C 8S AS TD KH 
+Pair
+you have the high card AS 
+player 1 wins
+done processing line 947
+ Player 1 hand : 6H 3D JD 2C 4C 
+ Player 2 hand : KC 7S AH 6C JH 
+you have the high card JD 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 948
+ Player 1 hand : 4C KS 9D AD 7S 
+ Player 2 hand : KC 7D 8H 3S 9C 
+you have the high card AD 
+you have the high card KC 
+ faceoff returned 1
+player 1 wins
+done processing line 949
+ Player 1 hand : 7H 5C 5H 3C 8H 
+ Player 2 hand : QC 3D KH 6D JC 
+Pair
+you have the high card KH 
+player 1 wins
+done processing line 950
+ Player 1 hand : 2D 4H 5D 7D QC 
+ Player 2 hand : AD AH 9H QH 8H 
+you have the high card QC 
+Pair
+player 2 wins
+done processing line 951
+ Player 1 hand : KD 8C JS 9D 3S 
+ Player 2 hand : 3C 2H 5D 6D 2S 
+you have the high card KD 
+Pair
+player 2 wins
+done processing line 952
+ Player 1 hand : 8S 6S TS 3C 6H 
+ Player 2 hand : 8D 5S 3H TD 6C 
+Pair
+you have the high card TD 
+player 1 wins
+done processing line 953
+ Player 1 hand : KS 3D JH 9C 7C 
+ Player 2 hand : 9S QS 5S 4H 6H 
+you have the high card KS 
+you have the high card QS 
+ faceoff returned 1
+player 1 wins
+done processing line 954
+ Player 1 hand : 7S 6S TH 4S KC 
+ Player 2 hand : KD 3S JC JH KS 
+you have the high card KC 
+Two Pair
+player 2 wins
+done processing line 955
+ Player 1 hand : 7C 3C 2S 6D QH 
+ Player 2 hand : 2C 7S 5H 8H AH 
+you have the high card QH 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 956
+ Player 1 hand : KC 8D QD 6D KH 
+ Player 2 hand : 5C 7H 9D 3D 9C 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 957
+ Player 1 hand : 6H 2D 8S JS 9S 
+ Player 2 hand : 2S 6D KC 7C TC 
+you have the high card JS 
+you have the high card KC 
+ faceoff returned 2
+player 2 wins
+done processing line 958
+ Player 1 hand : KD 9C JH 7H KC 
+ Player 2 hand : 8S 2S 7S 3D 6H 
+Pair
+you have the high card 8S 
+player 1 wins
+done processing line 959
+ Player 1 hand : 4H 9H 2D 4C 8H 
+ Player 2 hand : 7H 5S 8S 2H 8D 
+Pair
+Pair
+ faceoff returned 2
+player 2 wins
+done processing line 960
+ Player 1 hand : AD 7C 3C 7S 5S 
+ Player 2 hand : 4D 9H 3D JC KH 
+Pair
+you have the high card KH 
+player 1 wins
+done processing line 961
+ Player 1 hand : 5D AS 7D 6D 9C 
+ Player 2 hand : JC 4C QH QS KH 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 962
+ Player 1 hand : KD JD 7D 3D QS 
+ Player 2 hand : QC 8S 6D JS QD 
+you have the high card KD 
+Pair
+player 2 wins
+done processing line 963
+ Player 1 hand : 6S 8C 5S QH TH 
+ Player 2 hand : 9H AS AC 2C JD 
+you have the high card QH 
+Pair
+player 2 wins
+done processing line 964
+ Player 1 hand : QC KS QH 7S 3C 
+ Player 2 hand : 4C 5C KC 5D AH 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 965
+ Player 1 hand : 6C 4H 9D AH 2C 
+ Player 2 hand : 3H KD 3D TS 5C 
+you have the high card AH 
+Pair
+player 2 wins
+done processing line 966
+ Player 1 hand : TD 8S QS AS JS 
+ Player 2 hand : 3H KD AC 4H KS 
+you have the high card AS 
+Pair
+player 2 wins
+done processing line 967
+ Player 1 hand : 7D 5D TS 9H 4H 
+ Player 2 hand : 4C 9C 2H 8C QC 
+you have the high card TS 
+you have the high card QC 
+ faceoff returned 2
+player 2 wins
+done processing line 968
+ Player 1 hand : 2C 7D 9H 4D KS 
+ Player 2 hand : 4C QH AD KD JS 
+you have the high card KS 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 969
+ Player 1 hand : QD AD AH KH 9D 
+ Player 2 hand : JS 9H JC KD JD 
+Pair
+Trips
+player 2 wins
+done processing line 970
+ Player 1 hand : 8S 3C 4S TS 7S 
+ Player 2 hand : 4D 5C 2S 6H 7C 
+you have the high card TS 
+you have the high card 7C 
+ faceoff returned 1
+player 1 wins
+done processing line 971
+ Player 1 hand : JS 7S 5C KD 6D 
+ Player 2 hand : QH 8S TD 2H 6S 
+you have the high card KD 
+you have the high card QH 
+ faceoff returned 1
+player 1 wins
+done processing line 972
+ Player 1 hand : QH 6C TC 6H TD 
+ Player 2 hand : 4C 9D 2H QC 8H 
+Two Pair
+you have the high card QC 
+player 1 wins
+done processing line 973
+ Player 1 hand : 3D TS 4D 2H 6H 
+ Player 2 hand : 6S 2C 7H 8S 6C 
+you have the high card TS 
+Pair
+player 2 wins
+done processing line 974
+ Player 1 hand : 9H 9D JD JH 3S 
+ Player 2 hand : AH 2C 6S 3H 8S 
+Two Pair
+you have the high card AH 
+player 1 wins
+done processing line 975
+ Player 1 hand : 2C QS 8C 5S 3H 
+ Player 2 hand : 2S 7D 3C AD 4S 
+you have the high card QS 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 976
+ Player 1 hand : 5C QC QH AS TS 
+ Player 2 hand : 4S 6S 4C 5H JS 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 977
+ Player 1 hand : JH 5C TD 4C 6H 
+ Player 2 hand : JS KD KH QS 4H 
+you have the high card JH 
+Pair
+player 2 wins
+done processing line 978
+ Player 1 hand : TC KH JC 4D 9H 
+ Player 2 hand : 9D 8D KC 3C 8H 
+you have the high card KH 
+Pair
+player 2 wins
+done processing line 979
+ Player 1 hand : 2H TC 8S AD 9S 
+ Player 2 hand : 4H TS 7H 2C 5C 
+you have the high card AD 
+you have the high card TS 
+ faceoff returned 1
+player 1 wins
+done processing line 980
+ Player 1 hand : 4H 2S 6C 5S KS 
+ Player 2 hand : AH 9C 7C 8H KD 
+you have the high card KS 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 981
+ Player 1 hand : TS QH TD QS 3C 
+ Player 2 hand : JH AH 2C 8D 7D 
+Two Pair
+you have the high card AH 
+player 1 wins
+done processing line 982
+ Player 1 hand : 5D KC 3H 5S AC 
+ Player 2 hand : 4S 7H QS 4C 2H 
+Pair
+Pair
+ faceoff returned 1
+player 1 wins
+done processing line 983
+ Player 1 hand : 3D 7D QC KH JH 
+ Player 2 hand : 6D 6C TD TH KD 
+you have the high card KH 
+Two Pair
+player 2 wins
+done processing line 984
+ Player 1 hand : 5S 8D TH 6C 9D 
+ Player 2 hand : 7D KH 8C 9S 6D 
+you have the high card TH 
+you have the high card KH 
+ faceoff returned 2
+player 2 wins
+done processing line 985
+ Player 1 hand : JD QS 7S QC 2S 
+ Player 2 hand : QH JC 4S KS 8D 
+Pair
+you have the high card KS 
+player 1 wins
+done processing line 986
+ Player 1 hand : 7S 5S 9S JD KD 
+ Player 2 hand : 9C JC AD 2D 7C 
+you have the high card KD 
+you have the high card AD 
+ faceoff returned 2
+player 2 wins
+done processing line 987
+ Player 1 hand : 4S 5H AH JH 9C 
+ Player 2 hand : 5D TD 7C 2D 6S 
+you have the high card AH 
+you have the high card TD 
+ faceoff returned 1
+player 1 wins
+done processing line 988
+ Player 1 hand : KC 6C 7H 6S 9C 
+ Player 2 hand : QD 5S 4H KS TD 
+Pair
+you have the high card KS 
+player 1 wins
+done processing line 989
+ Player 1 hand : 6S 8D KS 2D TH 
+ Player 2 hand : TD 9H JD TS 3S 
+you have the high card KS 
+Pair
+player 2 wins
+done processing line 990
+ Player 1 hand : KH JS 4H 5D 9D 
+ Player 2 hand : TC TD QC JD TS 
+you have the high card KH 
+Trips
+player 2 wins
+done processing line 991
+ Player 1 hand : QS QD AC AD 4C 
+ Player 2 hand : 6S 2D AS 3H KC 
+Two Pair
+you have the high card AS 
+player 1 wins
+done processing line 992
+ Player 1 hand : 4C 7C 3C TD QS 
+ Player 2 hand : 9C KC AS 8D AD 
+you have the high card QS 
+Pair
+player 2 wins
+done processing line 993
+ Player 1 hand : KC 7H QC 6D 8H 
+ Player 2 hand : 6S 5S AH 7S 8C 
+you have the high card KC 
+you have the high card AH 
+ faceoff returned 2
+player 2 wins
+done processing line 994
+ Player 1 hand : 3S AD 9H JC 6D 
+ Player 2 hand : JD AS KH 6S JH 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 995
+ Player 1 hand : AD 3D TS KS 7H 
+ Player 2 hand : JH 2D JS QD AC 
+you have the high card AD 
+Pair
+player 2 wins
+done processing line 996
+ Player 1 hand : 9C JD 7C 6D TC 
+ Player 2 hand : 6H 6C JC 3D 3S 
+you have the high card JD 
+Two Pair
+player 2 wins
+done processing line 997
+ Player 1 hand : QC KC 3S JC KD 
+ Player 2 hand : 2C 8D AH QS TS 
+Pair
+you have the high card AH 
+player 1 wins
+done processing line 998
+ Player 1 hand : AS KD 3D JD 8H 
+ Player 2 hand : 7C 8C 5C QD 6C 
+you have the high card AS 
+you have the high card QD 
+ faceoff returned 1
+player 1 wins
+done processing line 999
+Player one wins : 376
+Player two wins : 624
+Ties : 0
+in destructor 
+done using main, goodbye 

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Croller/Coding/C++/Euler54/Euler54.cpp
+Euler54.h
+/Users/Croller/Coding/C++/Euler54/Euler54.h
+
+/Users/Croller/Coding/C++/Euler54/Euler54.h
+iostream
+-
+sstream
+-
+fstream
+-
+string
+-
+cctype
+-
+cstdlib
+-
+vector
+-
+
+/Users/Croller/Coding/C++/Euler54/euler54_main.cpp
+Euler54.cpp
+/Users/Croller/Coding/C++/Euler54/Euler54.cpp
+iostream
+-
+sstream
+-
+fstream
+-
+string
+-
+cctype
+-
+cstdlib
+-
+vector
+-
+
