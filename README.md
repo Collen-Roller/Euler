@@ -6,7 +6,7 @@ Repository dedicated to a set of solutions to project euler problems i've solved
 
 	C++	:	[2,54]
 
-##Creditation
+##Accreditation
 
 Written by [Collen Roller][1]
 
