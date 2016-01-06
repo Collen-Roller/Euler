@@ -1,13 +1,13 @@
-##Euler
+#Euler
 
 Repository dedicated to a set of soluations to project euler problems i've 
 solved in a variery of languages
 
-#Languages
+##Languages
 
 	C++	:	[2,54]
 
-#Creditation
+##Creditation
 
 Written by [Collen Roller][1]
 
