@@ -4,7 +4,7 @@ Repository dedicated to a set of solutions to project euler problems i've solved
 
 ##Languages
 
-	C++	:	[2,54]
+	C++		:	[2,54]
 	Java	:	[1]
 
 ##Accreditation
